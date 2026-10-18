@@ -1,0 +1,82 @@
+name: Stories
+
+on:
+  schedule:
+    # Horários em UTC (São Paulo = UTC-3, sem horário de verão).
+    # Minutos :03 e :33 para fugir do congestionamento do início da hora.
+    - cron: "3 11 * * *"   # 08:03 SP — manha_1
+    - cron: "33 13 * * *"  # 10:33 SP — manha_2
+    - cron: "33 16 * * *"  # 13:33 SP — tarde_1
+    - cron: "3 19 * * *"   # 16:03 SP — tarde_2
+    - cron: "3 22 * * *"   # 19:03 SP — noite_1
+    - cron: "3 0 * * *"    # 21:03 SP — noite_2
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Slot (auto = pelo horário atual)"
+        type: choice
+        default: auto
+        options:
+          - auto
+          - manha_1
+          - manha_2
+          - tarde_1
+          - tarde_2
+          - noite_1
+          - noite_2
+      dry_run:
+        description: "Só gerar e mostrar no log (não envia nem grava histórico)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stories
+  cancel-in-progress: false
+
+jobs:
+  stories:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Gerar e enviar ideias
+        env:
+          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          LLM_MODEL: ${{ vars.LLM_MODEL || 'deepseek-v4.1-flash' }}
+          # Inputs entram só como variáveis de ambiente, nunca interpolados no shell.
+          SLOT: ${{ inputs.slot || 'auto' }}
+          DRY_RUN: ${{ inputs.dry_run && 'true' || 'false' }}
+        run: |
+          args=(--slot "$SLOT")
+          if [ "$DRY_RUN" = "true" ]; then
+            args+=(--dry-run)
+          fi
+          python story_reminder.py "${args[@]}"
+
+      - name: Salvar histórico
+        if: ${{ !inputs.dry_run }}
+        run: |
+          if [ -z "$(git status --porcelain -- history.json)" ]; then
+            echo "history.json sem mudanças."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add history.json
+          git commit -m "chore: atualiza histórico de stories"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
