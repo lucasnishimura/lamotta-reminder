@@ -22,5 +22,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Doce ou fruta no café da manhã?"
+  },
+  {
+    "data": "2026-10-21T08:19-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "As mãos que abrem o dia"
+  },
+  {
+    "data": "2026-10-21T08:19-03:00",
+    "slot": "manha_1",
+    "formato": "o que estou fazendo agora",
+    "titulo": "A lista de quinta"
   }
 ]
