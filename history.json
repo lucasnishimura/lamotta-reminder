@@ -58,5 +58,17 @@
     "slot": "tarde_1",
     "formato": "cardápio/encomenda",
     "titulo": "A semana fecha na quinta"
+  },
+  {
+    "data": "2026-10-21T16:16-03:00",
+    "slot": "tarde_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "Qual doce você escolheria pra sua festa?"
+  },
+  {
+    "data": "2026-10-21T16:16-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Bolo de festa: recheio ou cobertura?"
   }
 ]
