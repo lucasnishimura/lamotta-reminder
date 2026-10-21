@@ -46,5 +46,17 @@
     "slot": "manha_2",
     "formato": "passo a passo rápido",
     "titulo": "Merengue maçaricado em 3 passos"
+  },
+  {
+    "data": "2026-10-21T13:45-03:00",
+    "slot": "tarde_1",
+    "formato": "vitrine do produto",
+    "titulo": "O que saiu do forno pra hoje"
+  },
+  {
+    "data": "2026-10-21T13:45-03:00",
+    "slot": "tarde_1",
+    "formato": "cardápio/encomenda",
+    "titulo": "A semana fecha na quinta"
   }
 ]
