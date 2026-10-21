@@ -34,5 +34,17 @@
     "slot": "manha_1",
     "formato": "o que estou fazendo agora",
     "titulo": "A lista de quinta"
+  },
+  {
+    "data": "2026-10-21T10:43-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O estalo do chocolate belga"
+  },
+  {
+    "data": "2026-10-21T10:43-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "Merengue maçaricado em 3 passos"
   }
 ]
