@@ -10,5 +10,17 @@
     "slot": "noite_1",
     "formato": "unboxing/embalagem",
     "titulo": "A caixa sendo montada antes de sair"
+  },
+  {
+    "data": "2026-10-21T07:44-03:00",
+    "slot": "manha_1",
+    "formato": "bom dia",
+    "titulo": "Bom dia de forno ligado"
+  },
+  {
+    "data": "2026-10-21T07:44-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Doce ou fruta no café da manhã?"
   }
 ]
