@@ -106,5 +106,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Fantasminha ou bruxinha?"
+  },
+  {
+    "data": "2026-10-22T10:45-03:00",
+    "slot": "manha_2",
+    "formato": "ingrediente do dia",
+    "titulo": "O morango que chegou hoje"
+  },
+  {
+    "data": "2026-10-22T10:45-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O som da espátula raspando a panela"
   }
 ]
