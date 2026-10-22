@@ -94,5 +94,17 @@
     "slot": "noite_2",
     "formato": "boa noite",
     "titulo": "Apagando a luz do ateliê"
+  },
+  {
+    "data": "2026-10-22T08:19-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "Os primeiros fantasminhas do ateliê"
+  },
+  {
+    "data": "2026-10-22T08:19-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Fantasminha ou bruxinha?"
   }
 ]
