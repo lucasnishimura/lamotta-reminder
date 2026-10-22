@@ -130,5 +130,17 @@
     "slot": "tarde_1",
     "formato": "quiz",
     "titulo": "Até quando dá pra encomendar pro sábado?"
+  },
+  {
+    "data": "2026-10-22T16:16-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Bolo de festa só fica bom no dia seguinte?"
+  },
+  {
+    "data": "2026-10-22T16:16-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "O segredo do merengue maçaricado na hora"
   }
 ]
