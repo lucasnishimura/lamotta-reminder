@@ -118,5 +118,17 @@
     "slot": "manha_2",
     "formato": "ASMR/close",
     "titulo": "O som da espátula raspando a panela"
+  },
+  {
+    "data": "2026-10-22T13:45-03:00",
+    "slot": "tarde_1",
+    "formato": "enquete de sabor",
+    "titulo": "Limão ou pistache: o que sai hoje?"
+  },
+  {
+    "data": "2026-10-22T13:45-03:00",
+    "slot": "tarde_1",
+    "formato": "quiz",
+    "titulo": "Até quando dá pra encomendar pro sábado?"
   }
 ]
