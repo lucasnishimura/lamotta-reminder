@@ -142,5 +142,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "O segredo do merengue maçaricado na hora"
+  },
+  {
+    "data": "2026-10-22T19:17-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "Ela marcou a gente: o bolo já na mesa da festa"
+  },
+  {
+    "data": "2026-10-22T19:17-03:00",
+    "slot": "noite_1",
+    "formato": "história da marca",
+    "titulo": "Por que La Motta?"
   }
 ]
