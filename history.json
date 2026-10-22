@@ -82,5 +82,17 @@
     "slot": "noite_1",
     "formato": "bastidor humano",
     "titulo": "A última entrega da noite"
+  },
+  {
+    "data": "2026-10-21T21:50-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "O que já está pronto pra amanhã"
+  },
+  {
+    "data": "2026-10-21T21:50-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "Apagando a luz do ateliê"
   }
 ]
