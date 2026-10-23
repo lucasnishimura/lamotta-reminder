@@ -178,5 +178,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Fim de semana pede o quê?"
+  },
+  {
+    "data": "2026-10-23T10:44-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O bolo desenformando"
+  },
+  {
+    "data": "2026-10-23T10:44-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "Tudo pesado antes da batedeira"
   }
 ]
