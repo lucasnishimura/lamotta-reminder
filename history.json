@@ -202,5 +202,17 @@
     "slot": "tarde_1",
     "formato": "cardápio/encomenda",
     "titulo": "As últimas vagas de sábado"
+  },
+  {
+    "data": "2026-10-23T16:17-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Doce pra agora ou pra guardar?"
+  },
+  {
+    "data": "2026-10-23T16:17-03:00",
+    "slot": "tarde_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "Pergunta o que quiser sobre doce"
   }
 ]
