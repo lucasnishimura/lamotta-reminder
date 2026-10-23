@@ -166,5 +166,17 @@
     "slot": "noite_2",
     "formato": "enquete \"o que quer ver amanhã\"",
     "titulo": "Você escolhe o story de amanhã"
+  },
+  {
+    "data": "2026-10-23T08:19-03:00",
+    "slot": "manha_1",
+    "formato": "o que estou fazendo agora",
+    "titulo": "Café na mão e o bloquinho da sexta"
+  },
+  {
+    "data": "2026-10-23T08:19-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Fim de semana pede o quê?"
   }
 ]
