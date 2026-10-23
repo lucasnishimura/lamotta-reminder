@@ -154,5 +154,17 @@
     "slot": "noite_1",
     "formato": "história da marca",
     "titulo": "Por que La Motta?"
+  },
+  {
+    "data": "2026-10-22T21:52-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Sábado tá quase fechando"
+  },
+  {
+    "data": "2026-10-22T21:52-03:00",
+    "slot": "noite_2",
+    "formato": "enquete \"o que quer ver amanhã\"",
+    "titulo": "Você escolhe o story de amanhã"
   }
 ]
