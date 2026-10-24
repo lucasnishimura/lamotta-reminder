@@ -238,5 +238,17 @@
     "slot": "noite_2",
     "formato": "boa noite",
     "titulo": "Boa noite do ateliê, com cheirinho de baunilha"
+  },
+  {
+    "data": "2026-10-24T10:39-03:00",
+    "slot": "manha_2",
+    "formato": "ingrediente do dia",
+    "titulo": "A fava de baunilha aberta na hora"
+  },
+  {
+    "data": "2026-10-24T10:39-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "Os 3 sinais de que o bolo tá assado"
   }
 ]
