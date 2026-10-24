@@ -226,5 +226,17 @@
     "slot": "noite_1",
     "formato": "unboxing/embalagem",
     "titulo": "O bilhetinho escrito à mão"
+  },
+  {
+    "data": "2026-10-23T21:49-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "A fila de caixas do sábado"
+  },
+  {
+    "data": "2026-10-23T21:49-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "Boa noite do ateliê, com cheirinho de baunilha"
   }
 ]
