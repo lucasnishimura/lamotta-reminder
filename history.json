@@ -274,5 +274,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "Por que o docinho aguenta a festa toda"
+  },
+  {
+    "data": "2026-10-24T19:16-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "A reação de quem abriu a caixa"
+  },
+  {
+    "data": "2026-10-24T19:16-03:00",
+    "slot": "noite_1",
+    "formato": "história da marca",
+    "titulo": "A página do caderno manchada de limão"
   }
 ]
