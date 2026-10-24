@@ -262,5 +262,17 @@
     "slot": "tarde_1",
     "formato": "enquete de sabor",
     "titulo": "Você escolhe o recheio do bolo de Halloween"
+  },
+  {
+    "data": "2026-10-24T16:14-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Bolo de Halloween: fofo ou assustador?"
+  },
+  {
+    "data": "2026-10-24T16:14-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "Por que o docinho aguenta a festa toda"
   }
 ]
