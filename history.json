@@ -322,5 +322,17 @@
     "slot": "manha_2",
     "formato": "caixinha de perguntas",
     "titulo": "Dúvida sobre a caixinha de Halloween?"
+  },
+  {
+    "data": "2026-10-25T13:41-03:00",
+    "slot": "tarde_1",
+    "formato": "vitrine do produto",
+    "titulo": "A última torta de limão do domingo"
+  },
+  {
+    "data": "2026-10-25T13:41-03:00",
+    "slot": "tarde_1",
+    "formato": "cardápio/encomenda",
+    "titulo": "Encomendar em 3 passos, sem mistério"
   }
 ]
