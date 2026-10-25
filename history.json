@@ -310,5 +310,17 @@
     "slot": "manha_1",
     "formato": "bastidor de produção",
     "titulo": "Domingo enchendo potes"
+  },
+  {
+    "data": "2026-10-25T10:40-03:00",
+    "slot": "manha_2",
+    "formato": "ingrediente do dia",
+    "titulo": "O limão que abre o domingo"
+  },
+  {
+    "data": "2026-10-25T10:40-03:00",
+    "slot": "manha_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "Dúvida sobre a caixinha de Halloween?"
   }
 ]
