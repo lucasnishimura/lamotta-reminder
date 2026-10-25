@@ -334,5 +334,17 @@
     "slot": "tarde_1",
     "formato": "cardápio/encomenda",
     "titulo": "Encomendar em 3 passos, sem mistério"
+  },
+  {
+    "data": "2026-10-25T16:14-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Bolo de festa pode ir pro congelador?"
+  },
+  {
+    "data": "2026-10-25T16:14-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "Por que o brigadeiro belga não fica duro"
   }
 ]
