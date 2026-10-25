@@ -298,5 +298,17 @@
     "slot": "noite_2",
     "formato": "contagem de encomendas",
     "titulo": "Quantas caixinhas de Halloween já têm dono"
+  },
+  {
+    "data": "2026-10-25T08:16-03:00",
+    "slot": "manha_1",
+    "formato": "o que estou fazendo agora",
+    "titulo": "Café com a lista da semana"
+  },
+  {
+    "data": "2026-10-25T08:16-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "Domingo enchendo potes"
   }
 ]
