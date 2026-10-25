@@ -286,5 +286,17 @@
     "slot": "noite_1",
     "formato": "história da marca",
     "titulo": "A página do caderno manchada de limão"
+  },
+  {
+    "data": "2026-10-24T21:55-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "O cachorro já entregou os pontos"
+  },
+  {
+    "data": "2026-10-24T21:55-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Quantas caixinhas de Halloween já têm dono"
   }
 ]
