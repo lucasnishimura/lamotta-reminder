@@ -346,5 +346,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "Por que o brigadeiro belga não fica duro"
+  },
+  {
+    "data": "2026-10-25T21:53-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "O relógio do Halloween já tá correndo"
+  },
+  {
+    "data": "2026-10-25T21:53-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "A segunda já tá escrita no caderno"
   }
 ]
