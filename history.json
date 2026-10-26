@@ -358,5 +358,17 @@
     "slot": "noite_2",
     "formato": "prévia do amanhã",
     "titulo": "A segunda já tá escrita no caderno"
+  },
+  {
+    "data": "2026-10-26T08:23-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "A primeira fornada da semana"
+  },
+  {
+    "data": "2026-10-26T08:23-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "O primeiro doce da semana"
   }
 ]
