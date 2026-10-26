@@ -406,5 +406,17 @@
     "slot": "tarde_2",
     "formato": "mito ou verdade",
     "titulo": "Bolo gelado na hora de servir: mito ou verdade?"
+  },
+  {
+    "data": "2026-10-26T19:19-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente (print de depoimento)",
+    "titulo": "O recado que chegou depois da festa"
+  },
+  {
+    "data": "2026-10-26T19:19-03:00",
+    "slot": "noite_1",
+    "formato": "unboxing/embalagem",
+    "titulo": "A caixa que sai amanhã cedo"
   }
 ]
