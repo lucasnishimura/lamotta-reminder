@@ -394,5 +394,17 @@
     "slot": "tarde_1",
     "formato": "vitrine do produto",
     "titulo": "A torta que acabou de ficar pronta"
+  },
+  {
+    "data": "2026-10-26T16:18-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Brigadeiro de colher ou enroladinho?"
+  },
+  {
+    "data": "2026-10-26T16:18-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Bolo gelado na hora de servir: mito ou verdade?"
   }
 ]
