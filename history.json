@@ -382,5 +382,17 @@
     "slot": "manha_2",
     "formato": "caixinha de perguntas",
     "titulo": "O doce da infância de vocês"
+  },
+  {
+    "data": "2026-10-26T13:48-03:00",
+    "slot": "tarde_1",
+    "formato": "quiz",
+    "titulo": "Quantos docinhos por pessoa?"
+  },
+  {
+    "data": "2026-10-26T13:48-03:00",
+    "slot": "tarde_1",
+    "formato": "vitrine do produto",
+    "titulo": "A torta que acabou de ficar pronta"
   }
 ]
