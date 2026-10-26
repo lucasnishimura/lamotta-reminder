@@ -370,5 +370,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "O primeiro doce da semana"
+  },
+  {
+    "data": "2026-10-26T11:50-03:00",
+    "slot": "manha_2",
+    "formato": "ingrediente do dia",
+    "titulo": "O ovo caipira que abre a semana"
+  },
+  {
+    "data": "2026-10-26T11:50-03:00",
+    "slot": "manha_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "O doce da infância de vocês"
   }
 ]
