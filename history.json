@@ -418,5 +418,17 @@
     "slot": "noite_1",
     "formato": "unboxing/embalagem",
     "titulo": "A caixa que sai amanhã cedo"
+  },
+  {
+    "data": "2026-10-26T21:52-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "A lista de terça já tá quase cheia"
+  },
+  {
+    "data": "2026-10-26T21:52-03:00",
+    "slot": "noite_2",
+    "formato": "enquete \"o que quer ver amanhã\"",
+    "titulo": "Amanhã quem escolhe sou eu? Não, você"
   }
 ]
