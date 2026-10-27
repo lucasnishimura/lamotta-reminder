@@ -466,5 +466,17 @@
     "slot": "tarde_1",
     "formato": "cardápio/encomenda",
     "titulo": "O quadro do dia: o que tem pronto pra hoje e amanhã"
+  },
+  {
+    "data": "2026-10-27T16:13-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Café ou champanhe com o bolo?"
+  },
+  {
+    "data": "2026-10-27T16:13-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "Por que tudo passa pela balança (até o ovo)"
   }
 ]
