@@ -430,5 +430,17 @@
     "slot": "noite_2",
     "formato": "enquete \"o que quer ver amanhã\"",
     "titulo": "Amanhã quem escolhe sou eu? Não, você"
+  },
+  {
+    "data": "2026-10-27T08:20-03:00",
+    "slot": "manha_1",
+    "formato": "bom dia",
+    "titulo": "Bom dia com cheirinho de forno"
+  },
+  {
+    "data": "2026-10-27T08:20-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Doce de manhã: pode ou não pode?"
   }
 ]
