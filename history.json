@@ -478,5 +478,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "Por que tudo passa pela balança (até o ovo)"
+  },
+  {
+    "data": "2026-10-27T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "A caixa chegou antes dos convidados"
+  },
+  {
+    "data": "2026-10-27T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "história da marca",
+    "titulo": "A primeira caixa ainda volta"
   }
 ]
