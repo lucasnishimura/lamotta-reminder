@@ -454,5 +454,17 @@
     "slot": "manha_2",
     "formato": "passo a passo rápido",
     "titulo": "A caixinha de Halloween em 3 passos"
+  },
+  {
+    "data": "2026-10-27T13:40-03:00",
+    "slot": "tarde_1",
+    "formato": "vitrine do produto",
+    "titulo": "O bolo de pote montado agora, pronto pra retirada hoje"
+  },
+  {
+    "data": "2026-10-27T13:40-03:00",
+    "slot": "tarde_1",
+    "formato": "cardápio/encomenda",
+    "titulo": "O quadro do dia: o que tem pronto pra hoje e amanhã"
   }
 ]
