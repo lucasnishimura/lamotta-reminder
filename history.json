@@ -538,5 +538,17 @@
     "slot": "tarde_1",
     "formato": "quiz",
     "titulo": "Sabe com quanto tempo encomendar?"
+  },
+  {
+    "data": "2026-10-28T16:13-03:00",
+    "slot": "tarde_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "A desculpa que você inventa pra encomendar doce"
+  },
+  {
+    "data": "2026-10-28T16:13-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Doce pra dividir ou doce só seu?"
   }
 ]
