@@ -550,5 +550,17 @@
     "slot": "tarde_2",
     "formato": "isso ou aquilo",
     "titulo": "Doce pra dividir ou doce só seu?"
+  },
+  {
+    "data": "2026-10-28T19:13-03:00",
+    "slot": "noite_1",
+    "formato": "unboxing/embalagem",
+    "titulo": "O laço que fecha a noite"
+  },
+  {
+    "data": "2026-10-28T19:13-03:00",
+    "slot": "noite_1",
+    "formato": "história da marca",
+    "titulo": "De onde veio o nome La Motta"
   }
 ]
