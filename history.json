@@ -490,5 +490,17 @@
     "slot": "noite_1",
     "formato": "história da marca",
     "titulo": "A primeira caixa ainda volta"
+  },
+  {
+    "data": "2026-10-27T21:40-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Última chamada pro Halloween"
+  },
+  {
+    "data": "2026-10-27T21:40-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "A massa já tá descansando pra amanhã"
   }
 ]
