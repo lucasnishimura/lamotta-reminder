@@ -526,5 +526,17 @@
     "slot": "manha_2",
     "formato": "ingrediente do dia",
     "titulo": "O ponto de pomada da manteiga"
+  },
+  {
+    "data": "2026-10-28T13:39-03:00",
+    "slot": "tarde_1",
+    "formato": "enquete de sabor",
+    "titulo": "Qual dos dois sai hoje pra você?"
+  },
+  {
+    "data": "2026-10-28T13:39-03:00",
+    "slot": "tarde_1",
+    "formato": "quiz",
+    "titulo": "Sabe com quanto tempo encomendar?"
   }
 ]
