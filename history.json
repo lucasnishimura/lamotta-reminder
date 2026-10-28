@@ -514,5 +514,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "O que tá saindo do forno agora"
+  },
+  {
+    "data": "2026-10-28T10:39-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O barulhinho do maçarico no merengue"
+  },
+  {
+    "data": "2026-10-28T10:39-03:00",
+    "slot": "manha_2",
+    "formato": "ingrediente do dia",
+    "titulo": "O ponto de pomada da manteiga"
   }
 ]
