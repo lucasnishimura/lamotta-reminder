@@ -502,5 +502,17 @@
     "slot": "noite_2",
     "formato": "prévia do amanhã",
     "titulo": "A massa já tá descansando pra amanhã"
+  },
+  {
+    "data": "2026-10-28T08:14-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "A cozinha acordando antes de mim"
+  },
+  {
+    "data": "2026-10-28T08:14-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "O que tá saindo do forno agora"
   }
 ]
