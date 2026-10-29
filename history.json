@@ -610,5 +610,17 @@
     "slot": "tarde_1",
     "formato": "enquete de sabor",
     "titulo": "Qual sabor fecha a última caixinha de Halloween?"
+  },
+  {
+    "data": "2026-10-29T16:13-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Sabor ou visual?"
+  },
+  {
+    "data": "2026-10-29T16:13-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Dá pra encomendar na véspera?"
   }
 ]
