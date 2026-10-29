@@ -562,5 +562,17 @@
     "slot": "noite_1",
     "formato": "história da marca",
     "titulo": "De onde veio o nome La Motta"
+  },
+  {
+    "data": "2026-10-28T21:39-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "Boa noite com aviso: quinta é o dia de fechar a lista"
+  },
+  {
+    "data": "2026-10-28T21:39-03:00",
+    "slot": "noite_2",
+    "formato": "enquete \"o que quer ver amanhã\"",
+    "titulo": "Amanhã quem escolhe o que eu mostro é você"
   }
 ]
