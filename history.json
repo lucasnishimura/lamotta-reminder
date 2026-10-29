@@ -586,5 +586,17 @@
     "slot": "manha_1",
     "formato": "bastidor de produção",
     "titulo": "O Halloween já tomou a bancada"
+  },
+  {
+    "data": "2026-10-29T10:39-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O raspar da tigela de brigadeiro belga"
+  },
+  {
+    "data": "2026-10-29T10:39-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "Do saco de confeitar pro docinho: 3 movimentos"
   }
 ]
