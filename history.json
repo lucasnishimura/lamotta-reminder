@@ -622,5 +622,17 @@
     "slot": "tarde_2",
     "formato": "mito ou verdade",
     "titulo": "Dá pra encomendar na véspera?"
+  },
+  {
+    "data": "2026-10-29T19:14-03:00",
+    "slot": "noite_1",
+    "formato": "bastidor humano",
+    "titulo": "O último trajeto da quinta"
+  },
+  {
+    "data": "2026-10-29T19:14-03:00",
+    "slot": "noite_1",
+    "formato": "unboxing/embalagem",
+    "titulo": "A caixa aberta em 15 segundos"
   }
 ]
