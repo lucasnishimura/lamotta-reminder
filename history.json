@@ -574,5 +574,17 @@
     "slot": "noite_2",
     "formato": "enquete \"o que quer ver amanhã\"",
     "titulo": "Amanhã quem escolhe o que eu mostro é você"
+  },
+  {
+    "data": "2026-10-29T08:13-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Café preto ou pingado?"
+  },
+  {
+    "data": "2026-10-29T08:13-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "O Halloween já tomou a bancada"
   }
 ]
