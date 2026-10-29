@@ -598,5 +598,17 @@
     "slot": "manha_2",
     "formato": "passo a passo rápido",
     "titulo": "Do saco de confeitar pro docinho: 3 movimentos"
+  },
+  {
+    "data": "2026-10-29T13:39-03:00",
+    "slot": "tarde_1",
+    "formato": "cardápio/encomenda",
+    "titulo": "O que ainda dá tempo de encomendar pro sábado"
+  },
+  {
+    "data": "2026-10-29T13:39-03:00",
+    "slot": "tarde_1",
+    "formato": "enquete de sabor",
+    "titulo": "Qual sabor fecha a última caixinha de Halloween?"
   }
 ]
