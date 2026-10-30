@@ -670,5 +670,17 @@
     "slot": "tarde_1",
     "formato": "quiz",
     "titulo": "Qual caixinha de Halloween é a sua?"
+  },
+  {
+    "data": "2026-10-30T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Fatia generosa ou três docinhos pra repetir?"
+  },
+  {
+    "data": "2026-10-30T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "Por que o docinho mais pesado vai no fundo da caixa"
   }
 ]
