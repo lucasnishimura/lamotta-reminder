@@ -682,5 +682,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "Por que o docinho mais pesado vai no fundo da caixa"
+  },
+  {
+    "data": "2026-10-30T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "bastidor humano",
+    "titulo": "A sexta que termina no carro"
+  },
+  {
+    "data": "2026-10-30T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "O story que chegou antes do parabéns"
   }
 ]
