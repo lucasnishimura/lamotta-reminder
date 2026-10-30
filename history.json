@@ -658,5 +658,17 @@
     "slot": "manha_1",
     "formato": "o que estou fazendo agora",
     "titulo": "Fechando as últimas caixinhas de amanhã"
+  },
+  {
+    "data": "2026-10-30T13:38-03:00",
+    "slot": "tarde_1",
+    "formato": "vitrine do produto",
+    "titulo": "As últimas caixinhas de Halloween, prontas agora"
+  },
+  {
+    "data": "2026-10-30T13:38-03:00",
+    "slot": "tarde_1",
+    "formato": "quiz",
+    "titulo": "Qual caixinha de Halloween é a sua?"
   }
 ]
