@@ -634,5 +634,17 @@
     "slot": "noite_1",
     "formato": "unboxing/embalagem",
     "titulo": "A caixa aberta em 15 segundos"
+  },
+  {
+    "data": "2026-10-29T21:40-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "O caderno de sexta e sábado tá quase fechado"
+  },
+  {
+    "data": "2026-10-29T21:40-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "A cozinha apaga a luz, o forno já tem hora"
   }
 ]
