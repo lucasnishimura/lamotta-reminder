@@ -646,5 +646,17 @@
     "slot": "noite_2",
     "formato": "boa noite",
     "titulo": "A cozinha apaga a luz, o forno já tem hora"
+  },
+  {
+    "data": "2026-10-30T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bom dia",
+    "titulo": "Bom dia de véspera, café primeiro"
+  },
+  {
+    "data": "2026-10-30T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "o que estou fazendo agora",
+    "titulo": "Fechando as últimas caixinhas de amanhã"
   }
 ]
