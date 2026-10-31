@@ -706,5 +706,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "A fantasia do doce de hoje"
+  },
+  {
+    "data": "2026-10-31T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "enquete de sabor",
+    "titulo": "Qual você levava pra festa de hoje?"
+  },
+  {
+    "data": "2026-10-31T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "cardápio/encomenda",
+    "titulo": "Como pedir em dois toques"
   }
 ]
