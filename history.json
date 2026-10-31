@@ -694,5 +694,17 @@
     "slot": "noite_1",
     "formato": "repost de cliente",
     "titulo": "O story que chegou antes do parabéns"
+  },
+  {
+    "data": "2026-10-31T08:10-03:00",
+    "slot": "manha_1",
+    "formato": "o que estou fazendo agora",
+    "titulo": "Abrindo a geladeira do dia, 8h10"
+  },
+  {
+    "data": "2026-10-31T08:10-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "A fantasia do doce de hoje"
   }
 ]
