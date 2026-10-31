@@ -730,5 +730,17 @@
     "slot": "tarde_2",
     "formato": "mito ou verdade",
     "titulo": "Doce sem conservante estraga rápido?"
+  },
+  {
+    "data": "2026-10-31T19:10-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "A caixa que ela quase não abriu"
+  },
+  {
+    "data": "2026-10-31T19:10-03:00",
+    "slot": "noite_1",
+    "formato": "bastidor humano",
+    "titulo": "A caixa que fica em casa"
   }
 ]
