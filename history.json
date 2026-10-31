@@ -718,5 +718,17 @@
     "slot": "tarde_1",
     "formato": "cardápio/encomenda",
     "titulo": "Como pedir em dois toques"
+  },
+  {
+    "data": "2026-10-31T16:09-03:00",
+    "slot": "tarde_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "Pergunta o que você sempre quis saber da cozinha"
+  },
+  {
+    "data": "2026-10-31T16:09-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Doce sem conservante estraga rápido?"
   }
 ]
