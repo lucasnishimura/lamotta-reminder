@@ -742,5 +742,17 @@
     "slot": "noite_1",
     "formato": "bastidor humano",
     "titulo": "A caixa que fica em casa"
+  },
+  {
+    "data": "2026-10-31T21:41-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "A bancada de domingo já tá no jeito"
+  },
+  {
+    "data": "2026-10-31T21:41-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Semana curta: segunda é Finados"
   }
 ]
