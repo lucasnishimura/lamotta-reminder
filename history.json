@@ -754,5 +754,17 @@
     "slot": "noite_2",
     "formato": "contagem de encomendas",
     "titulo": "Semana curta: segunda é Finados"
+  },
+  {
+    "data": "2026-11-01T08:10-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "A primeira fornada de domingo"
+  },
+  {
+    "data": "2026-11-01T08:10-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "O café de domingo aí na sua casa"
   }
 ]
