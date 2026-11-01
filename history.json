@@ -778,5 +778,17 @@
     "slot": "manha_2",
     "formato": "caixinha de perguntas",
     "titulo": "Adivinha o ingrediente mais caro"
+  },
+  {
+    "data": "2026-11-01T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "vitrine do produto",
+    "titulo": "A torta de limão que acabou de sair"
+  },
+  {
+    "data": "2026-11-01T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "cardápio/encomenda",
+    "titulo": "O que tem hoje — e por que a semana fecha mais cedo"
   }
 ]
