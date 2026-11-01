@@ -790,5 +790,17 @@
     "slot": "tarde_1",
     "formato": "cardápio/encomenda",
     "titulo": "O que tem hoje — e por que a semana fecha mais cedo"
+  },
+  {
+    "data": "2026-11-01T16:09-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Bolo de ontem é melhor que bolo de hoje?"
+  },
+  {
+    "data": "2026-11-01T16:09-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "A torta de limão dorme antes de ir pra caixa"
   }
 ]
