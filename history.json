@@ -826,5 +826,17 @@
     "slot": "noite_2",
     "formato": "enquete \"o que quer ver amanhã\"",
     "titulo": "Terça eu mostro o que você escolher"
+  },
+  {
+    "data": "2026-11-02T10:38-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O estalo do chocolate belga"
+  },
+  {
+    "data": "2026-11-02T10:38-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "Do limão à raspinha em 3 movimentos"
   }
 ]
