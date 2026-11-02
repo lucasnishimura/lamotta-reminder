@@ -838,5 +838,17 @@
     "slot": "manha_2",
     "formato": "passo a passo rápido",
     "titulo": "Do limão à raspinha em 3 movimentos"
+  },
+  {
+    "data": "2026-11-02T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Caixa surpresa ou escolho cada um?"
+  },
+  {
+    "data": "2026-11-02T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "Por que o brigadeiro belga dorme fora da geladeira"
   }
 ]
