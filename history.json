@@ -814,5 +814,17 @@
     "slot": "noite_1",
     "formato": "bastidor humano",
     "titulo": "O domingo que fecha a semana"
+  },
+  {
+    "data": "2026-11-01T21:36-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "Boa noite com o aviso: amanhã o ateliê descansa"
+  },
+  {
+    "data": "2026-11-01T21:36-03:00",
+    "slot": "noite_2",
+    "formato": "enquete \"o que quer ver amanhã\"",
+    "titulo": "Terça eu mostro o que você escolher"
   }
 ]
