@@ -850,5 +850,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "Por que o brigadeiro belga dorme fora da geladeira"
+  },
+  {
+    "data": "2026-11-02T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "história da marca",
+    "titulo": "O caderno que começou tudo"
+  },
+  {
+    "data": "2026-11-02T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "O pedido que se repete"
   }
 ]
