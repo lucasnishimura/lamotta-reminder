@@ -886,5 +886,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Café da manhã doce ou salgado?"
+  },
+  {
+    "data": "2026-11-03T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O som da manteiga cortando a manhã"
+  },
+  {
+    "data": "2026-11-03T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "O doce da sua infância"
   }
 ]
