@@ -898,5 +898,17 @@
     "slot": "manha_2",
     "formato": "caixinha de perguntas",
     "titulo": "O doce da sua infância"
+  },
+  {
+    "data": "2026-11-03T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "vitrine do produto",
+    "titulo": "O doce do dia saiu agora da bancada"
+  },
+  {
+    "data": "2026-11-03T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "enquete de sabor",
+    "titulo": "Você decide o sabor da fornada de quinta"
   }
 ]
