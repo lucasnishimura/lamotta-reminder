@@ -874,5 +874,17 @@
     "slot": "noite_2",
     "formato": "contagem de encomendas",
     "titulo": "Quantos lugares ainda tem na semana"
+  },
+  {
+    "data": "2026-11-03T08:13-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "A cozinha acordando na terça"
+  },
+  {
+    "data": "2026-11-03T08:13-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Café da manhã doce ou salgado?"
   }
 ]
