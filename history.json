@@ -910,5 +910,17 @@
     "slot": "tarde_1",
     "formato": "enquete de sabor",
     "titulo": "Você decide o sabor da fornada de quinta"
+  },
+  {
+    "data": "2026-11-03T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "O doce que ainda não existe"
+  },
+  {
+    "data": "2026-11-03T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Bolo de festa na geladeira"
   }
 ]
