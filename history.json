@@ -862,5 +862,17 @@
     "slot": "noite_1",
     "formato": "repost de cliente",
     "titulo": "O pedido que se repete"
+  },
+  {
+    "data": "2026-11-02T21:33-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "O ateliê acordando depois do descanso"
+  },
+  {
+    "data": "2026-11-02T21:33-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Quantos lugares ainda tem na semana"
   }
 ]
