@@ -922,5 +922,17 @@
     "slot": "tarde_2",
     "formato": "mito ou verdade",
     "titulo": "Bolo de festa na geladeira"
+  },
+  {
+    "data": "2026-11-03T19:10-03:00",
+    "slot": "noite_1",
+    "formato": "unboxing/embalagem",
+    "titulo": "O que vai na caixa e você não vê"
+  },
+  {
+    "data": "2026-11-03T19:10-03:00",
+    "slot": "noite_1",
+    "formato": "história da marca",
+    "titulo": "De onde veio o nome La Motta"
   }
 ]
