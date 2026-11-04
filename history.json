@@ -958,5 +958,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Time acordar cedo ou time dorminhoco?"
+  },
+  {
+    "data": "2026-11-04T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ingrediente do dia",
+    "titulo": "O morango que chega hoje e já tem destino"
+  },
+  {
+    "data": "2026-11-04T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "Três gestos e o bolo tá pronto pra caixa"
   }
 ]
