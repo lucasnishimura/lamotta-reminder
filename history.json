@@ -982,5 +982,17 @@
     "slot": "tarde_1",
     "formato": "cardápio/encomenda",
     "titulo": "O cardápio da quarta, do jeitinho que chega no WhatsApp"
+  },
+  {
+    "data": "2026-11-04T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Ponta ou meio do bolo?"
+  },
+  {
+    "data": "2026-11-04T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "A balança ganha da xícara"
   }
 ]
