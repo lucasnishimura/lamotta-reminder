@@ -970,5 +970,17 @@
     "slot": "manha_2",
     "formato": "passo a passo rápido",
     "titulo": "Três gestos e o bolo tá pronto pra caixa"
+  },
+  {
+    "data": "2026-11-04T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "quiz",
+    "titulo": "Qual doce combina com a sua quarta?"
+  },
+  {
+    "data": "2026-11-04T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "cardápio/encomenda",
+    "titulo": "O cardápio da quarta, do jeitinho que chega no WhatsApp"
   }
 ]
