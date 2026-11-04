@@ -934,5 +934,17 @@
     "slot": "noite_1",
     "formato": "história da marca",
     "titulo": "De onde veio o nome La Motta"
+  },
+  {
+    "data": "2026-11-03T21:32-03:00",
+    "slot": "noite_2",
+    "formato": "enquete \"o que quer ver amanhã\"",
+    "titulo": "Amanhã quem escolhe é você"
+  },
+  {
+    "data": "2026-11-03T21:32-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Os últimos lugares da quinta"
   }
 ]
