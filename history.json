@@ -946,5 +946,17 @@
     "slot": "noite_2",
     "formato": "contagem de encomendas",
     "titulo": "Os últimos lugares da quinta"
+  },
+  {
+    "data": "2026-11-04T08:14-03:00",
+    "slot": "manha_1",
+    "formato": "bom dia",
+    "titulo": "Bom dia de quarta: café primeiro, lista depois"
+  },
+  {
+    "data": "2026-11-04T08:14-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Time acordar cedo ou time dorminhoco?"
   }
 ]
