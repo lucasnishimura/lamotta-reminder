@@ -1042,5 +1042,17 @@
     "slot": "tarde_1",
     "formato": "quiz",
     "titulo": "Quiz do prazo: você sabe com quanto tempo encomendar?"
+  },
+  {
+    "data": "2026-11-05T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Gelado ou quentinho?"
+  },
+  {
+    "data": "2026-11-05T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "Por que a semana fecha na quinta"
   }
 ]
