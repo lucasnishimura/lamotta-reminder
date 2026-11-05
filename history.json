@@ -1054,5 +1054,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "Por que a semana fecha na quinta"
+  },
+  {
+    "data": "2026-11-05T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "A mensagem que chegou depois da festa"
+  },
+  {
+    "data": "2026-11-05T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "unboxing/embalagem",
+    "titulo": "O laço que fecha o pedido da noite"
   }
 ]
