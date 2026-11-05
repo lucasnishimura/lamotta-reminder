@@ -1018,5 +1018,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Confessa: doce antes do café"
+  },
+  {
+    "data": "2026-11-05T10:38-03:00",
+    "slot": "manha_2",
+    "formato": "ingrediente do dia",
+    "titulo": "O pistache chegou e já tem dono"
+  },
+  {
+    "data": "2026-11-05T10:38-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "Três gestos e a caixinha tá pronta"
   }
 ]
