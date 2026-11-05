@@ -1030,5 +1030,17 @@
     "slot": "manha_2",
     "formato": "passo a passo rápido",
     "titulo": "Três gestos e a caixinha tá pronta"
+  },
+  {
+    "data": "2026-11-05T13:38-03:00",
+    "slot": "tarde_1",
+    "formato": "vitrine do produto",
+    "titulo": "A última torta da semana tá na bancada"
+  },
+  {
+    "data": "2026-11-05T13:38-03:00",
+    "slot": "tarde_1",
+    "formato": "quiz",
+    "titulo": "Quiz do prazo: você sabe com quanto tempo encomendar?"
   }
 ]
