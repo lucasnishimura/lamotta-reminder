@@ -1006,5 +1006,17 @@
     "slot": "noite_2",
     "formato": "boa noite",
     "titulo": "Boa noite com a cozinha já em ordem"
+  },
+  {
+    "data": "2026-11-05T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "A quinta já tá no forno"
+  },
+  {
+    "data": "2026-11-05T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Confessa: doce antes do café"
   }
 ]
