@@ -994,5 +994,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "A balança ganha da xícara"
+  },
+  {
+    "data": "2026-11-04T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "A lista de quinta fecha amanhã"
+  },
+  {
+    "data": "2026-11-04T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "Boa noite com a cozinha já em ordem"
   }
 ]
