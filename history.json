@@ -1114,5 +1114,17 @@
     "slot": "tarde_1",
     "formato": "Enquete de sabor",
     "titulo": "Sábado tem fornada e quem escolhe é você"
+  },
+  {
+    "data": "2026-11-06T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Merengue maçaricado chora na geladeira?"
+  },
+  {
+    "data": "2026-11-06T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "Qual doce você levaria pro almoço de domingo?"
   }
 ]
