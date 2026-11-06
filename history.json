@@ -1090,5 +1090,17 @@
     "slot": "manha_1",
     "formato": "Enquete leve",
     "titulo": "Doce na hora ou depois do jantar?"
+  },
+  {
+    "data": "2026-11-06T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O estalo do maçarico"
+  },
+  {
+    "data": "2026-11-06T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "Pergunta sem medo"
   }
 ]
