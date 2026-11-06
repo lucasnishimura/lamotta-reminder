@@ -1066,5 +1066,17 @@
     "slot": "noite_1",
     "formato": "unboxing/embalagem",
     "titulo": "O laço que fecha o pedido da noite"
+  },
+  {
+    "data": "2026-11-05T21:33-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "A lista da semana fechou"
+  },
+  {
+    "data": "2026-11-05T21:33-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "Boa noite, com a primeira caixa de amanhã já no lugar"
   }
 ]
