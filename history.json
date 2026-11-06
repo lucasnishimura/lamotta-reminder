@@ -1126,5 +1126,17 @@
     "slot": "tarde_2",
     "formato": "caixinha de perguntas",
     "titulo": "Qual doce você levaria pro almoço de domingo?"
+  },
+  {
+    "data": "2026-11-06T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "história da marca",
+    "titulo": "A torta que nasceu de um teste pra família"
+  },
+  {
+    "data": "2026-11-06T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "bastidor humano",
+    "titulo": "A última caixa da sexta saindo pela porta"
   }
 ]
