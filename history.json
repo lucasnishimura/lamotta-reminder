@@ -1078,5 +1078,17 @@
     "slot": "noite_2",
     "formato": "boa noite",
     "titulo": "Boa noite, com a primeira caixa de amanhã já no lugar"
+  },
+  {
+    "data": "2026-11-06T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "O que estou fazendo agora",
+    "titulo": "O ateliê abrindo na sexta"
+  },
+  {
+    "data": "2026-11-06T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "Enquete leve",
+    "titulo": "Doce na hora ou depois do jantar?"
   }
 ]
