@@ -1102,5 +1102,17 @@
     "slot": "manha_2",
     "formato": "caixinha de perguntas",
     "titulo": "Pergunta sem medo"
+  },
+  {
+    "data": "2026-11-06T13:38-03:00",
+    "slot": "tarde_1",
+    "formato": "Vitrine do produto",
+    "titulo": "A bandeja de brownies que sai pra retirada hoje"
+  },
+  {
+    "data": "2026-11-06T13:38-03:00",
+    "slot": "tarde_1",
+    "formato": "Enquete de sabor",
+    "titulo": "Sábado tem fornada e quem escolhe é você"
   }
 ]
