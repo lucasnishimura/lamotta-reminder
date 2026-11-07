@@ -1186,5 +1186,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "Por que eu não corto bolo quente"
+  },
+  {
+    "data": "2026-11-07T19:10-03:00",
+    "slot": "noite_1",
+    "formato": "bastidor humano",
+    "titulo": "A última entrega do sábado"
+  },
+  {
+    "data": "2026-11-07T19:10-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "A foto que chegou depois da festa"
   }
 ]
