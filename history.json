@@ -1174,5 +1174,17 @@
     "slot": "tarde_1",
     "formato": "quiz",
     "titulo": "Chuta quanto sobrou"
+  },
+  {
+    "data": "2026-11-07T16:09-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Doce pra dividir ou doce só seu?"
+  },
+  {
+    "data": "2026-11-07T16:09-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "Por que eu não corto bolo quente"
   }
 ]
