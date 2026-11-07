@@ -1138,5 +1138,17 @@
     "slot": "noite_1",
     "formato": "bastidor humano",
     "titulo": "A última caixa da sexta saindo pela porta"
+  },
+  {
+    "data": "2026-11-06T21:32-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "O sábado já tá enfileirado na bancada"
+  },
+  {
+    "data": "2026-11-06T21:32-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "O último docinho do dia é meu"
   }
 ]
