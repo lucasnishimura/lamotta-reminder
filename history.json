@@ -1150,5 +1150,17 @@
     "slot": "noite_2",
     "formato": "boa noite",
     "titulo": "O último docinho do dia é meu"
+  },
+  {
+    "data": "2026-11-07T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "A primeira assadeira do sábado"
+  },
+  {
+    "data": "2026-11-07T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ingrediente do dia",
+    "titulo": "A baunilha raspada na hora"
   }
 ]
