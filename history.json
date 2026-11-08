@@ -1222,5 +1222,17 @@
     "slot": "manha_1",
     "formato": "Bastidor de produção",
     "titulo": "A fornada silenciosa de domingo"
+  },
+  {
+    "data": "2026-11-08T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "Ingrediente do dia",
+    "titulo": "O ovo caipira que dá cor ao bolo"
+  },
+  {
+    "data": "2026-11-08T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O estalo do chocolate quebrando"
   }
 ]
