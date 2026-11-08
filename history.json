@@ -1258,5 +1258,17 @@
     "slot": "tarde_2",
     "formato": "caixinha de perguntas",
     "titulo": "O doce da ceia de Natal"
+  },
+  {
+    "data": "2026-11-08T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "A cliente que voltou e pediu o mesmo bolo"
+  },
+  {
+    "data": "2026-11-08T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "unboxing/embalagem",
+    "titulo": "Chegou em casa: como guardar até a hora"
   }
 ]
