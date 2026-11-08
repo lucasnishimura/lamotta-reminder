@@ -1198,5 +1198,17 @@
     "slot": "noite_1",
     "formato": "repost de cliente",
     "titulo": "A foto que chegou depois da festa"
+  },
+  {
+    "data": "2026-11-07T21:37-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "O domingo já tem dono"
+  },
+  {
+    "data": "2026-11-07T21:37-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "Boa noite com aviso de encomenda"
   }
 ]
