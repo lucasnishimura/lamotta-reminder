@@ -1210,5 +1210,17 @@
     "slot": "noite_2",
     "formato": "boa noite",
     "titulo": "Boa noite com aviso de encomenda"
+  },
+  {
+    "data": "2026-11-08T08:10-03:00",
+    "slot": "manha_1",
+    "formato": "O que estou fazendo agora",
+    "titulo": "Café na mão e a semana no papel"
+  },
+  {
+    "data": "2026-11-08T08:10-03:00",
+    "slot": "manha_1",
+    "formato": "Bastidor de produção",
+    "titulo": "A fornada silenciosa de domingo"
   }
 ]
