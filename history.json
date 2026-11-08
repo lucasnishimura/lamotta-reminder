@@ -1234,5 +1234,17 @@
     "slot": "manha_2",
     "formato": "ASMR/close",
     "titulo": "O estalo do chocolate quebrando"
+  },
+  {
+    "data": "2026-11-08T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "cardápio/encomenda",
+    "titulo": "O que ainda tem na bancada pra retirada hoje"
+  },
+  {
+    "data": "2026-11-08T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "quiz",
+    "titulo": "Quiz do domingo: qual sabor tá saindo mais?"
   }
 ]
