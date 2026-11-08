@@ -1246,5 +1246,17 @@
     "slot": "tarde_1",
     "formato": "quiz",
     "titulo": "Quiz do domingo: qual sabor tá saindo mais?"
+  },
+  {
+    "data": "2026-11-08T16:09-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Chocolate belga na geladeira"
+  },
+  {
+    "data": "2026-11-08T16:09-03:00",
+    "slot": "tarde_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "O doce da ceia de Natal"
   }
 ]
