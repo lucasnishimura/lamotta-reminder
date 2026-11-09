@@ -1270,5 +1270,17 @@
     "slot": "noite_1",
     "formato": "unboxing/embalagem",
     "titulo": "Chegou em casa: como guardar até a hora"
+  },
+  {
+    "data": "2026-11-08T21:36-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "A segunda que já está montada na bancada"
+  },
+  {
+    "data": "2026-11-08T21:36-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Terça e quarta estão quase fechando"
   }
 ]
