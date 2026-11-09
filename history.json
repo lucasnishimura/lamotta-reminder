@@ -1282,5 +1282,17 @@
     "slot": "noite_2",
     "formato": "contagem de encomendas",
     "titulo": "Terça e quarta estão quase fechando"
+  },
+  {
+    "data": "2026-11-09T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "Bastidor de produção",
+    "titulo": "A bancada acorda antes de mim"
+  },
+  {
+    "data": "2026-11-09T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "Enquete leve",
+    "titulo": "O que salva a sua segunda?"
   }
 ]
