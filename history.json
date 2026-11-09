@@ -1294,5 +1294,17 @@
     "slot": "manha_1",
     "formato": "Enquete leve",
     "titulo": "O que salva a sua segunda?"
+  },
+  {
+    "data": "2026-11-09T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O chiado da farinha na peneira"
+  },
+  {
+    "data": "2026-11-09T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "O que você quer ver saindo do forno"
   }
 ]
