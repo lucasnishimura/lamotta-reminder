@@ -1318,5 +1318,17 @@
     "slot": "tarde_1",
     "formato": "Enquete de sabor",
     "titulo": "Segunda cinza: qual sabor eu faço primeiro?"
+  },
+  {
+    "data": "2026-11-09T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Bolo de véspera é melhor?"
+  },
+  {
+    "data": "2026-11-09T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "Por que eu bato a forma na bancada"
   }
 ]
