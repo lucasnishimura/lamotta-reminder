@@ -1330,5 +1330,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "Por que eu bato a forma na bancada"
+  },
+  {
+    "data": "2026-11-09T21:32-03:00",
+    "slot": "noite_2",
+    "formato": "Enquete — o que quer ver amanhã",
+    "titulo": "Amanhã você escolhe o bastidor"
+  },
+  {
+    "data": "2026-11-09T21:32-03:00",
+    "slot": "noite_2",
+    "formato": "Contagem de encomendas",
+    "titulo": "O caderno da semana aberto"
   }
 ]
