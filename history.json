@@ -1342,5 +1342,17 @@
     "slot": "noite_2",
     "formato": "Contagem de encomendas",
     "titulo": "O caderno da semana aberto"
+  },
+  {
+    "data": "2026-11-10T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bom dia",
+    "titulo": "Bom dia com a terça já cheirando a baunilha"
+  },
+  {
+    "data": "2026-11-10T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Time caneca gigante ou xícara pequena?"
   }
 ]
