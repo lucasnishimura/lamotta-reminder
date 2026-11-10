@@ -1390,5 +1390,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "Por que a torta de limão só é montada no dia"
+  },
+  {
+    "data": "2026-11-10T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "A caixa que voltou vazia"
+  },
+  {
+    "data": "2026-11-10T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "história da marca",
+    "titulo": "De onde veio o La Motta"
   }
 ]
