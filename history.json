@@ -1354,5 +1354,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Time caneca gigante ou xícara pequena?"
+  },
+  {
+    "data": "2026-11-10T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "Ingrediente do dia",
+    "titulo": "A manteiga em ponto de pomada"
+  },
+  {
+    "data": "2026-11-10T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "Passo a passo rápido",
+    "titulo": "Untar e enfarinhar em 3 passos"
   }
 ]
