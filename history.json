@@ -1366,5 +1366,17 @@
     "slot": "manha_2",
     "formato": "Passo a passo rápido",
     "titulo": "Untar e enfarinhar em 3 passos"
+  },
+  {
+    "data": "2026-11-10T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Vitrine do produto",
+    "titulo": "A fornada da tarde saiu agora"
+  },
+  {
+    "data": "2026-11-10T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Cardápio/encomenda",
+    "titulo": "O caderno de quinta tá aberto"
   }
 ]
