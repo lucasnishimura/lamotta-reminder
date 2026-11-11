@@ -1414,5 +1414,17 @@
     "slot": "noite_2",
     "formato": "contagem de encomendas",
     "titulo": "Quem já tá na lista de quinta"
+  },
+  {
+    "data": "2026-11-11T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bom dia",
+    "titulo": "Bom dia de quarta, café antes da farinha"
+  },
+  {
+    "data": "2026-11-11T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Cheiro de manhã: café ou bolo?"
   }
 ]
