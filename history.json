@@ -1426,5 +1426,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Cheiro de manhã: café ou bolo?"
+  },
+  {
+    "data": "2026-11-11T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "Passo a passo rápido",
+    "titulo": "A borda limpa da torta em 3 gestos"
+  },
+  {
+    "data": "2026-11-11T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "Caixinha de perguntas",
+    "titulo": "O doce que fez você fechar os olhos"
   }
 ]
