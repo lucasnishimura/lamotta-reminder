@@ -1402,5 +1402,17 @@
     "slot": "noite_1",
     "formato": "história da marca",
     "titulo": "De onde veio o La Motta"
+  },
+  {
+    "data": "2026-11-10T21:33-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "O ateliê dorme primeiro"
+  },
+  {
+    "data": "2026-11-10T21:33-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Quem já tá na lista de quinta"
   }
 ]
