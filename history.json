@@ -1462,5 +1462,17 @@
     "slot": "tarde_2",
     "formato": "mito ou verdade",
     "titulo": "Panetone caseiro melhora com o tempo?"
+  },
+  {
+    "data": "2026-11-11T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "unboxing/embalagem",
+    "titulo": "A caixa de presente que fecha o dia"
+  },
+  {
+    "data": "2026-11-11T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "O elogio que chegou às 19h"
   }
 ]
