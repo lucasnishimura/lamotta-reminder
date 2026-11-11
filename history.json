@@ -1450,5 +1450,17 @@
     "slot": "tarde_1",
     "formato": "Quiz",
     "titulo": "Adivinha o sabor da bancada"
+  },
+  {
+    "data": "2026-11-11T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Café das 4: brownie ou torta de limão?"
+  },
+  {
+    "data": "2026-11-11T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Panetone caseiro melhora com o tempo?"
   }
 ]
