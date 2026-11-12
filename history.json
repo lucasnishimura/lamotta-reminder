@@ -1522,5 +1522,17 @@
     "slot": "tarde_1",
     "formato": "Cardápio/encomenda",
     "titulo": "Domingo abre a lista dos panetones"
+  },
+  {
+    "data": "2026-11-12T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Panetone na geladeira: pode ou não pode?"
+  },
+  {
+    "data": "2026-11-12T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "Por que o creme de pistache escurece"
   }
 ]
