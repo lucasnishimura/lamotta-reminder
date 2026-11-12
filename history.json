@@ -1510,5 +1510,17 @@
     "slot": "manha_2",
     "formato": "passo a passo rápido",
     "titulo": "A casquinha do brownie em 3 passos"
+  },
+  {
+    "data": "2026-11-12T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Vitrine do produto",
+    "titulo": "O pistache tá quase acabando hoje"
+  },
+  {
+    "data": "2026-11-12T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Cardápio/encomenda",
+    "titulo": "Domingo abre a lista dos panetones"
   }
 ]
