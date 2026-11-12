@@ -1474,5 +1474,17 @@
     "slot": "noite_1",
     "formato": "repost de cliente",
     "titulo": "O elogio que chegou às 19h"
+  },
+  {
+    "data": "2026-11-11T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Quinta quase fechada e sábado o Natal abre"
+  },
+  {
+    "data": "2026-11-11T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "A massa descansa, eu também"
   }
 ]
