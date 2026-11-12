@@ -1498,5 +1498,17 @@
     "slot": "manha_1",
     "formato": "bastidor de produção",
     "titulo": "O forno acendendo é o meu bom dia"
+  },
+  {
+    "data": "2026-11-12T10:38-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O maçarico acende e o cheiro muda"
+  },
+  {
+    "data": "2026-11-12T10:38-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "A casquinha do brownie em 3 passos"
   }
 ]
