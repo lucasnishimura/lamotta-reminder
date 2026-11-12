@@ -1486,5 +1486,17 @@
     "slot": "noite_2",
     "formato": "boa noite",
     "titulo": "A massa descansa, eu também"
+  },
+  {
+    "data": "2026-11-12T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bom dia",
+    "titulo": "Bom dia de quinta: a cozinha acende antes de mim"
+  },
+  {
+    "data": "2026-11-12T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "O forno acendendo é o meu bom dia"
   }
 ]
