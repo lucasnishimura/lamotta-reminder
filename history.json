@@ -1570,5 +1570,17 @@
     "slot": "manha_2",
     "formato": "ASMR/close",
     "titulo": "O merengue subindo no fouet"
+  },
+  {
+    "data": "2026-11-13T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Cardápio/encomenda",
+    "titulo": "Sexta à tarde: o que ainda dá tempo de encomendar"
+  },
+  {
+    "data": "2026-11-13T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Quiz",
+    "titulo": "Quiz da sexta: com quantas horas de antecedência?"
   }
 ]
