@@ -1558,5 +1558,17 @@
     "slot": "noite_2",
     "formato": "contagem de encomendas",
     "titulo": "As caixas de sexta já têm nome"
+  },
+  {
+    "data": "2026-11-13T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "Ingrediente do dia",
+    "titulo": "O limão siciliano que abre a sexta"
+  },
+  {
+    "data": "2026-11-13T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O merengue subindo no fouet"
   }
 ]
