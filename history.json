@@ -1582,5 +1582,17 @@
     "slot": "tarde_1",
     "formato": "Quiz",
     "titulo": "Quiz da sexta: com quantas horas de antecedência?"
+  },
+  {
+    "data": "2026-11-13T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Mesa de Natal: bolo no centro ou caixinha de docinhos"
+  },
+  {
+    "data": "2026-11-13T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "O doce da cozinha de infância"
   }
 ]
