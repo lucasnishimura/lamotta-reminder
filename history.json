@@ -1546,5 +1546,17 @@
     "slot": "noite_1",
     "formato": "unboxing/embalagem",
     "titulo": "Abrindo a caixa como a cliente abre"
+  },
+  {
+    "data": "2026-11-12T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "Sexta é o dia da torta de limão"
+  },
+  {
+    "data": "2026-11-12T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "As caixas de sexta já têm nome"
   }
 ]
