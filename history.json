@@ -1606,5 +1606,17 @@
     "slot": "noite_1",
     "formato": "unboxing/embalagem",
     "titulo": "O recadinho que vai dentro"
+  },
+  {
+    "data": "2026-11-13T21:32-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Sábado com nome na caixa"
+  },
+  {
+    "data": "2026-11-13T21:32-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "A primeira fornada de panetone do ano"
   }
 ]
