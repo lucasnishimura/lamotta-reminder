@@ -1618,5 +1618,17 @@
     "slot": "noite_2",
     "formato": "prévia do amanhã",
     "titulo": "A primeira fornada de panetone do ano"
+  },
+  {
+    "data": "2026-11-14T08:10-03:00",
+    "slot": "manha_1",
+    "formato": "o que estou fazendo agora",
+    "titulo": "Sábado, 8h: a cozinha acendendo devagar"
+  },
+  {
+    "data": "2026-11-14T08:10-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Café da manhã de sábado: cama ou balcão?"
   }
 ]
