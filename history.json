@@ -1630,5 +1630,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Café da manhã de sábado: cama ou balcão?"
+  },
+  {
+    "data": "2026-11-14T10:36-03:00",
+    "slot": "manha_2",
+    "formato": "Ingrediente do dia",
+    "titulo": "As frutas que dormem de molho"
+  },
+  {
+    "data": "2026-11-14T10:36-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O panetone esticando no gancho"
   }
 ]
