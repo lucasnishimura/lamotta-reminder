@@ -1654,5 +1654,17 @@
     "slot": "tarde_1",
     "formato": "Cardápio/encomenda",
     "titulo": "As últimas caixinhas de sábado"
+  },
+  {
+    "data": "2026-11-14T16:09-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Fatia quentinha ou geladinha?"
+  },
+  {
+    "data": "2026-11-14T16:09-03:00",
+    "slot": "tarde_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "Que sabor de panetone você nunca viu por aí?"
   }
 ]
