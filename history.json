@@ -1726,5 +1726,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "Por que panetone esfria de cabeça pra baixo"
+  },
+  {
+    "data": "2026-11-15T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "A mesa de domingo de quem encomendou"
+  },
+  {
+    "data": "2026-11-15T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "unboxing/embalagem",
+    "titulo": "A caixa que sai amanhã cedo"
   }
 ]
