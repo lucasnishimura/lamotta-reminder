@@ -1690,5 +1690,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Domingo de manhã: qual doce ganhava o almoço de hoje?"
+  },
+  {
+    "data": "2026-11-15T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O estalo do chocolate belga"
+  },
+  {
+    "data": "2026-11-15T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "Caixinha de perguntas",
+    "titulo": "O doce que fecha o almoço de domingo"
   }
 ]
