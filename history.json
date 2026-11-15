@@ -1678,5 +1678,17 @@
     "slot": "noite_2",
     "formato": "contagem de encomendas",
     "titulo": "A agenda da semana que vem"
+  },
+  {
+    "data": "2026-11-15T08:10-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "Domingo, 8h: o ateliê limpo antes da bagunça boa"
+  },
+  {
+    "data": "2026-11-15T08:10-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Domingo de manhã: qual doce ganhava o almoço de hoje?"
   }
 ]
