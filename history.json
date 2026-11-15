@@ -1666,5 +1666,17 @@
     "slot": "tarde_2",
     "formato": "caixinha de perguntas",
     "titulo": "Que sabor de panetone você nunca viu por aí?"
+  },
+  {
+    "data": "2026-11-14T21:36-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "Sábado encerrado, luz apagada"
+  },
+  {
+    "data": "2026-11-14T21:36-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "A agenda da semana que vem"
   }
 ]
