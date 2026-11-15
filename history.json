@@ -1702,5 +1702,17 @@
     "slot": "manha_2",
     "formato": "Caixinha de perguntas",
     "titulo": "O doce que fecha o almoço de domingo"
+  },
+  {
+    "data": "2026-11-15T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Vitrine do produto",
+    "titulo": "O que sobrou do domingo (e sai hoje)"
+  },
+  {
+    "data": "2026-11-15T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Quiz",
+    "titulo": "Quiz do domingo: o que ainda tem vaga"
   }
 ]
