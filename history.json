@@ -1714,5 +1714,17 @@
     "slot": "tarde_1",
     "formato": "Quiz",
     "titulo": "Quiz do domingo: o que ainda tem vaga"
+  },
+  {
+    "data": "2026-11-15T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Panetone: casca ou miolo?"
+  },
+  {
+    "data": "2026-11-15T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "Por que panetone esfria de cabeça pra baixo"
   }
 ]
