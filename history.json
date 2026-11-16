@@ -1738,5 +1738,17 @@
     "slot": "noite_1",
     "formato": "unboxing/embalagem",
     "titulo": "A caixa que sai amanhã cedo"
+  },
+  {
+    "data": "2026-11-15T21:40-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Primeiro dia da lista de Natal fechando"
+  },
+  {
+    "data": "2026-11-15T21:40-03:00",
+    "slot": "noite_2",
+    "formato": "enquete \"o que quer ver amanhã\"",
+    "titulo": "Amanhã quem escolhe é você"
   }
 ]
