@@ -1762,5 +1762,17 @@
     "slot": "manha_2",
     "formato": "ASMR/close",
     "titulo": "A farinha caindo na peneira"
+  },
+  {
+    "data": "2026-11-16T13:38-03:00",
+    "slot": "tarde_1",
+    "formato": "Cardápio/encomenda",
+    "titulo": "Segunda, 13h: o que ainda tem vaga essa semana"
+  },
+  {
+    "data": "2026-11-16T13:38-03:00",
+    "slot": "tarde_1",
+    "formato": "Enquete de sabor",
+    "titulo": "Sobrou pouquinho: qual você levaria hoje?"
   }
 ]
