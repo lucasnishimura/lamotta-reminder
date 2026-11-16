@@ -1750,5 +1750,17 @@
     "slot": "noite_2",
     "formato": "enquete \"o que quer ver amanhã\"",
     "titulo": "Amanhã quem escolhe é você"
+  },
+  {
+    "data": "2026-11-16T10:53-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "O panetone em 3 gestos"
+  },
+  {
+    "data": "2026-11-16T10:53-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "A farinha caindo na peneira"
   }
 ]
