@@ -1786,5 +1786,17 @@
     "slot": "tarde_2",
     "formato": "mito ou verdade",
     "titulo": "Panetone bom não sai em um dia"
+  },
+  {
+    "data": "2026-11-16T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "história da marca",
+    "titulo": "De onde vem o nome La Motta"
+  },
+  {
+    "data": "2026-11-16T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "unboxing/embalagem",
+    "titulo": "O teste da caixa antes de sair"
   }
 ]
