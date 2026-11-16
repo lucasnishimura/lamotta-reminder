@@ -1774,5 +1774,17 @@
     "slot": "tarde_1",
     "formato": "Enquete de sabor",
     "titulo": "Sobrou pouquinho: qual você levaria hoje?"
+  },
+  {
+    "data": "2026-11-16T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "Quem vai ganhar panetone de você esse ano?"
+  },
+  {
+    "data": "2026-11-16T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Panetone bom não sai em um dia"
   }
 ]
