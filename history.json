@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-21T08:19-03:00",
-    "slot": "manha_1",
-    "formato": "bastidor de produção",
-    "titulo": "As mãos que abrem o dia"
-  },
-  {
-    "data": "2026-10-21T08:19-03:00",
-    "slot": "manha_1",
-    "formato": "o que estou fazendo agora",
-    "titulo": "A lista de quinta"
-  },
-  {
     "data": "2026-10-21T10:43-03:00",
     "slot": "manha_2",
     "formato": "ASMR/close",
@@ -1798,5 +1786,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Café da manhã de terça: doce ou salgado?"
+  },
+  {
+    "data": "2026-11-17T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "Ingrediente do dia",
+    "titulo": "O fermento que acorda antes de mim"
+  },
+  {
+    "data": "2026-11-17T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "Qual desculpa você usa pra pedir doce numa terça?"
   }
 ]
