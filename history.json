@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-21T07:44-03:00",
-    "slot": "manha_1",
-    "formato": "bom dia",
-    "titulo": "Bom dia de forno ligado"
-  },
-  {
-    "data": "2026-10-21T07:44-03:00",
-    "slot": "manha_1",
-    "formato": "enquete leve",
-    "titulo": "Doce ou fruta no café da manhã?"
-  },
-  {
     "data": "2026-10-21T08:19-03:00",
     "slot": "manha_1",
     "formato": "bastidor de produção",
@@ -1798,5 +1786,17 @@
     "slot": "noite_2",
     "formato": "prévia do amanhã",
     "titulo": "Terça acorda cheirando baunilha"
+  },
+  {
+    "data": "2026-11-17T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "o que estou fazendo agora",
+    "titulo": "Terça, 8h: o cheiro que ficou de ontem"
+  },
+  {
+    "data": "2026-11-17T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Café da manhã de terça: doce ou salgado?"
   }
 ]
