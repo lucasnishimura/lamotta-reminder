@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-21T13:45-03:00",
-    "slot": "tarde_1",
-    "formato": "vitrine do produto",
-    "titulo": "O que saiu do forno pra hoje"
-  },
-  {
-    "data": "2026-10-21T13:45-03:00",
-    "slot": "tarde_1",
-    "formato": "cardápio/encomenda",
-    "titulo": "A semana fecha na quinta"
-  },
-  {
     "data": "2026-10-21T16:16-03:00",
     "slot": "tarde_2",
     "formato": "caixinha de perguntas",
@@ -1798,5 +1786,17 @@
     "slot": "tarde_1",
     "formato": "Quiz",
     "titulo": "Quiz de terça: qual é o mais pedido da casa?"
+  },
+  {
+    "data": "2026-11-17T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Dar doce ou ganhar doce?"
+  },
+  {
+    "data": "2026-11-17T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "A torta que você come amanhã foi feita hoje"
   }
 ]
