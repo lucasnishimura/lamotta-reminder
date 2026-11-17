@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-21T16:16-03:00",
-    "slot": "tarde_2",
-    "formato": "caixinha de perguntas",
-    "titulo": "Qual doce você escolheria pra sua festa?"
-  },
-  {
-    "data": "2026-10-21T16:16-03:00",
-    "slot": "tarde_2",
-    "formato": "isso ou aquilo",
-    "titulo": "Bolo de festa: recheio ou cobertura?"
-  },
-  {
     "data": "2026-10-21T19:18-03:00",
     "slot": "noite_1",
     "formato": "história da marca",
@@ -1798,5 +1786,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "A torta que você come amanhã foi feita hoje"
+  },
+  {
+    "data": "2026-11-17T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "A mensagem que chegou às 19h"
+  },
+  {
+    "data": "2026-11-17T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "história da marca",
+    "titulo": "A primeira encomenda cabia numa foto"
   }
 ]
