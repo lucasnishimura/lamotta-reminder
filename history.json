@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-18T18:16-03:00",
-    "slot": "noite_1",
-    "formato": "repost de cliente",
-    "titulo": "Print do elogio que chegou hoje"
-  },
-  {
-    "data": "2026-10-18T18:16-03:00",
-    "slot": "noite_1",
-    "formato": "unboxing/embalagem",
-    "titulo": "A caixa sendo montada antes de sair"
-  },
-  {
     "data": "2026-10-21T07:44-03:00",
     "slot": "manha_1",
     "formato": "bom dia",
@@ -1798,5 +1786,17 @@
     "slot": "noite_1",
     "formato": "unboxing/embalagem",
     "titulo": "O teste da caixa antes de sair"
+  },
+  {
+    "data": "2026-11-16T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Segunda 21h: a lista de terça já tem nome"
+  },
+  {
+    "data": "2026-11-16T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "Terça acorda cheirando baunilha"
   }
 ]
