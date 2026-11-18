@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-21T19:18-03:00",
-    "slot": "noite_1",
-    "formato": "história da marca",
-    "titulo": "De onde veio a torta de limão"
-  },
-  {
-    "data": "2026-10-21T19:18-03:00",
-    "slot": "noite_1",
-    "formato": "bastidor humano",
-    "titulo": "A última entrega da noite"
-  },
-  {
     "data": "2026-10-21T21:50-03:00",
     "slot": "noite_2",
     "formato": "prévia do amanhã",
@@ -1798,5 +1786,17 @@
     "slot": "noite_1",
     "formato": "história da marca",
     "titulo": "A primeira encomenda cabia numa foto"
+  },
+  {
+    "data": "2026-11-17T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "A cozinha dormindo, as caixas de amanhã prontas"
+  },
+  {
+    "data": "2026-11-17T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Contando as caixas de quarta em voz alta"
   }
 ]
