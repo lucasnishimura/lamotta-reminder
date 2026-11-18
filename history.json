@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-22T08:19-03:00",
-    "slot": "manha_1",
-    "formato": "bastidor de produção",
-    "titulo": "Os primeiros fantasminhas do ateliê"
-  },
-  {
-    "data": "2026-10-22T08:19-03:00",
-    "slot": "manha_1",
-    "formato": "enquete leve",
-    "titulo": "Fantasminha ou bruxinha?"
-  },
-  {
     "data": "2026-10-22T10:45-03:00",
     "slot": "manha_2",
     "formato": "ingrediente do dia",
@@ -1798,5 +1786,17 @@
     "slot": "manha_1",
     "formato": "bastidor de produção",
     "titulo": "A massa descansando antes de mim"
+  },
+  {
+    "data": "2026-11-18T10:38-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "Três gestos e a massa já tá na forma"
+  },
+  {
+    "data": "2026-11-18T10:38-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O barulho da calda encontrando o bolo"
   }
 ]
