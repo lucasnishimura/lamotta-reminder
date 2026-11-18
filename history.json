@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-22T13:45-03:00",
-    "slot": "tarde_1",
-    "formato": "enquete de sabor",
-    "titulo": "Limão ou pistache: o que sai hoje?"
-  },
-  {
-    "data": "2026-10-22T13:45-03:00",
-    "slot": "tarde_1",
-    "formato": "quiz",
-    "titulo": "Até quando dá pra encomendar pro sábado?"
-  },
-  {
     "data": "2026-10-22T16:16-03:00",
     "slot": "tarde_2",
     "formato": "mito ou verdade",
@@ -1798,5 +1786,17 @@
     "slot": "tarde_2",
     "formato": "caixinha de perguntas",
     "titulo": "A ceia dos seus sonhos"
+  },
+  {
+    "data": "2026-11-18T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "unboxing/embalagem",
+    "titulo": "A primeira caixa de Natal do ano"
+  },
+  {
+    "data": "2026-11-18T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "bastidor humano",
+    "titulo": "O caderninho que ninguém vê"
   }
 ]
