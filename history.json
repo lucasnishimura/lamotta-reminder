@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-21T21:50-03:00",
-    "slot": "noite_2",
-    "formato": "prévia do amanhã",
-    "titulo": "O que já está pronto pra amanhã"
-  },
-  {
-    "data": "2026-10-21T21:50-03:00",
-    "slot": "noite_2",
-    "formato": "boa noite",
-    "titulo": "Apagando a luz do ateliê"
-  },
-  {
     "data": "2026-10-22T08:19-03:00",
     "slot": "manha_1",
     "formato": "bastidor de produção",
@@ -1798,5 +1786,17 @@
     "slot": "noite_2",
     "formato": "contagem de encomendas",
     "titulo": "Contando as caixas de quarta em voz alta"
+  },
+  {
+    "data": "2026-11-18T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bom dia",
+    "titulo": "Bom dia de quarta com café e lista na mão"
+  },
+  {
+    "data": "2026-11-18T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "A massa descansando antes de mim"
   }
 ]
