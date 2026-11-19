@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-23T10:44-03:00",
-    "slot": "manha_2",
-    "formato": "ASMR/close",
-    "titulo": "O bolo desenformando"
-  },
-  {
-    "data": "2026-10-23T10:44-03:00",
-    "slot": "manha_2",
-    "formato": "passo a passo rápido",
-    "titulo": "Tudo pesado antes da batedeira"
-  },
-  {
     "data": "2026-10-23T13:46-03:00",
     "slot": "tarde_1",
     "formato": "enquete de sabor",
@@ -1798,5 +1786,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "Por que a lista fecha na quinta"
+  },
+  {
+    "data": "2026-11-19T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "bastidor humano",
+    "titulo": "Quinta, 19h: as caixas entrando no carro"
+  },
+  {
+    "data": "2026-11-19T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "O stories que a cliente mandou sem eu pedir"
   }
 ]
