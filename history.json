@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-22T16:16-03:00",
-    "slot": "tarde_2",
-    "formato": "mito ou verdade",
-    "titulo": "Bolo de festa só fica bom no dia seguinte?"
-  },
-  {
-    "data": "2026-10-22T16:16-03:00",
-    "slot": "tarde_2",
-    "formato": "curiosidade",
-    "titulo": "O segredo do merengue maçaricado na hora"
-  },
-  {
     "data": "2026-10-22T19:17-03:00",
     "slot": "noite_1",
     "formato": "repost de cliente",
@@ -1798,5 +1786,17 @@
     "slot": "noite_1",
     "formato": "bastidor humano",
     "titulo": "O caderninho que ninguém vê"
+  },
+  {
+    "data": "2026-11-18T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "Quinta é dia de fechar a lista"
+  },
+  {
+    "data": "2026-11-18T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "enquete \"o que quer ver amanhã\"",
+    "titulo": "Amanhã quem escolhe é você"
   }
 ]
