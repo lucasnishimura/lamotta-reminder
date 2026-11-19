@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-22T19:17-03:00",
-    "slot": "noite_1",
-    "formato": "repost de cliente",
-    "titulo": "Ela marcou a gente: o bolo já na mesa da festa"
-  },
-  {
-    "data": "2026-10-22T19:17-03:00",
-    "slot": "noite_1",
-    "formato": "história da marca",
-    "titulo": "Por que La Motta?"
-  },
-  {
     "data": "2026-10-22T21:52-03:00",
     "slot": "noite_2",
     "formato": "contagem de encomendas",
@@ -1798,5 +1786,17 @@
     "slot": "noite_2",
     "formato": "enquete \"o que quer ver amanhã\"",
     "titulo": "Amanhã quem escolhe é você"
+  },
+  {
+    "data": "2026-11-19T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O som da espátula raspando a tigela"
+  },
+  {
+    "data": "2026-11-19T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "Ingrediente do dia",
+    "titulo": "O pistache que chegou hoje cedo"
   }
 ]
