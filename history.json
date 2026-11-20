@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-23T16:17-03:00",
-    "slot": "tarde_2",
-    "formato": "isso ou aquilo",
-    "titulo": "Doce pra agora ou pra guardar?"
-  },
-  {
-    "data": "2026-10-23T16:17-03:00",
-    "slot": "tarde_2",
-    "formato": "caixinha de perguntas",
-    "titulo": "Pergunta o que quiser sobre doce"
-  },
-  {
     "data": "2026-10-23T19:17-03:00",
     "slot": "noite_1",
     "formato": "bastidor humano",
@@ -1798,5 +1786,17 @@
     "slot": "noite_2",
     "formato": "prévia do amanhã",
     "titulo": "Sexta acorda com cheiro de panetone"
+  },
+  {
+    "data": "2026-11-20T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bom dia",
+    "titulo": "Bom dia de sexta com o forno já ligado"
+  },
+  {
+    "data": "2026-11-20T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "O primeiro cheiro da sexta"
   }
 ]
