@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-23T19:17-03:00",
-    "slot": "noite_1",
-    "formato": "bastidor humano",
-    "titulo": "Quem leva a La Motta até você"
-  },
-  {
-    "data": "2026-10-23T19:17-03:00",
-    "slot": "noite_1",
-    "formato": "unboxing/embalagem",
-    "titulo": "O bilhetinho escrito à mão"
-  },
-  {
     "data": "2026-10-23T21:49-03:00",
     "slot": "noite_2",
     "formato": "contagem de encomendas",
@@ -1798,5 +1786,17 @@
     "slot": "manha_1",
     "formato": "bastidor de produção",
     "titulo": "O primeiro cheiro da sexta"
+  },
+  {
+    "data": "2026-11-20T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ingrediente do dia",
+    "titulo": "A baunilha que abre a sexta"
+  },
+  {
+    "data": "2026-11-20T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "O ponto do brigadeiro em 3 gestos"
   }
 ]
