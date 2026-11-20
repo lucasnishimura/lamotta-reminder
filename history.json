@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-23T21:49-03:00",
-    "slot": "noite_2",
-    "formato": "contagem de encomendas",
-    "titulo": "A fila de caixas do sábado"
-  },
-  {
-    "data": "2026-10-23T21:49-03:00",
-    "slot": "noite_2",
-    "formato": "boa noite",
-    "titulo": "Boa noite do ateliê, com cheirinho de baunilha"
-  },
-  {
     "data": "2026-10-24T10:39-03:00",
     "slot": "manha_2",
     "formato": "ingrediente do dia",
@@ -1798,5 +1786,17 @@
     "slot": "manha_2",
     "formato": "passo a passo rápido",
     "titulo": "O ponto do brigadeiro em 3 gestos"
+  },
+  {
+    "data": "2026-11-20T13:38-03:00",
+    "slot": "tarde_1",
+    "formato": "Vitrine do produto",
+    "titulo": "Sexta, 13h: o que saiu do forno agora"
+  },
+  {
+    "data": "2026-11-20T13:38-03:00",
+    "slot": "tarde_1",
+    "formato": "Enquete de sabor",
+    "titulo": "Feriadão pede doce: escolhe que eu faço"
   }
 ]
