@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-23T13:46-03:00",
-    "slot": "tarde_1",
-    "formato": "enquete de sabor",
-    "titulo": "Qual docinho entra no kit de Halloween?"
-  },
-  {
-    "data": "2026-10-23T13:46-03:00",
-    "slot": "tarde_1",
-    "formato": "cardápio/encomenda",
-    "titulo": "As últimas vagas de sábado"
-  },
-  {
     "data": "2026-10-23T16:17-03:00",
     "slot": "tarde_2",
     "formato": "isso ou aquilo",
@@ -1798,5 +1786,17 @@
     "slot": "noite_1",
     "formato": "repost de cliente",
     "titulo": "O stories que a cliente mandou sem eu pedir"
+  },
+  {
+    "data": "2026-11-19T21:31-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Contando as caixas de sexta em voz alta"
+  },
+  {
+    "data": "2026-11-19T21:31-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "Sexta acorda com cheiro de panetone"
   }
 ]
