@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-24T16:14-03:00",
-    "slot": "tarde_2",
-    "formato": "isso ou aquilo",
-    "titulo": "Bolo de Halloween: fofo ou assustador?"
-  },
-  {
-    "data": "2026-10-24T16:14-03:00",
-    "slot": "tarde_2",
-    "formato": "curiosidade",
-    "titulo": "Por que o docinho aguenta a festa toda"
-  },
-  {
     "data": "2026-10-24T19:16-03:00",
     "slot": "noite_1",
     "formato": "repost de cliente",
@@ -1798,5 +1786,17 @@
     "slot": "noite_2",
     "formato": "enquete \"o que quer ver amanhã\"",
     "titulo": "Sábado quem escolhe é você"
+  },
+  {
+    "data": "2026-11-21T08:11-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "Sábado, 8h: o forno acende antes do café"
+  },
+  {
+    "data": "2026-11-21T08:11-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Sábado de manhã: com o que você acorda?"
   }
 ]
