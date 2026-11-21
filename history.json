@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-24T19:16-03:00",
-    "slot": "noite_1",
-    "formato": "repost de cliente",
-    "titulo": "A reação de quem abriu a caixa"
-  },
-  {
-    "data": "2026-10-24T19:16-03:00",
-    "slot": "noite_1",
-    "formato": "história da marca",
-    "titulo": "A página do caderno manchada de limão"
-  },
-  {
     "data": "2026-10-24T21:55-03:00",
     "slot": "noite_2",
     "formato": "boa noite",
@@ -1798,5 +1786,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Sábado de manhã: com o que você acorda?"
+  },
+  {
+    "data": "2026-11-21T10:36-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O estalo do chocolate"
+  },
+  {
+    "data": "2026-11-21T10:36-03:00",
+    "slot": "manha_2",
+    "formato": "Ingrediente do dia",
+    "titulo": "A gema que puxa o sábado"
   }
 ]
