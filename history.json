@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-25T08:16-03:00",
-    "slot": "manha_1",
-    "formato": "o que estou fazendo agora",
-    "titulo": "Café com a lista da semana"
-  },
-  {
-    "data": "2026-10-25T08:16-03:00",
-    "slot": "manha_1",
-    "formato": "bastidor de produção",
-    "titulo": "Domingo enchendo potes"
-  },
-  {
     "data": "2026-10-25T10:40-03:00",
     "slot": "manha_2",
     "formato": "ingrediente do dia",
@@ -1798,5 +1786,17 @@
     "slot": "tarde_1",
     "formato": "Vitrine do produto",
     "titulo": "A torta de limão que acabou de sair"
+  },
+  {
+    "data": "2026-11-21T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "Casca crocante ou miolo macio?"
+  },
+  {
+    "data": "2026-11-21T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "curiosidade",
+    "titulo": "Por que o panetone esfria de cabeça pra baixo"
   }
 ]
