@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-25T16:14-03:00",
-    "slot": "tarde_2",
-    "formato": "mito ou verdade",
-    "titulo": "Bolo de festa pode ir pro congelador?"
-  },
-  {
-    "data": "2026-10-25T16:14-03:00",
-    "slot": "tarde_2",
-    "formato": "curiosidade",
-    "titulo": "Por que o brigadeiro belga não fica duro"
-  },
-  {
     "data": "2026-10-25T21:53-03:00",
     "slot": "noite_2",
     "formato": "contagem de encomendas",
@@ -1798,5 +1786,17 @@
     "slot": "noite_2",
     "formato": "boa noite",
     "titulo": "A luz apaga, mas o cheiro fica"
+  },
+  {
+    "data": "2026-11-22T08:10-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "Domingo, 8h: o forno acende antes de todo mundo"
+  },
+  {
+    "data": "2026-11-22T08:10-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Domingo de manhã: o doce vem antes ou depois?"
   }
 ]
