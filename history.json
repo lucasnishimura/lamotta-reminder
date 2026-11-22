@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-26T13:48-03:00",
-    "slot": "tarde_1",
-    "formato": "quiz",
-    "titulo": "Quantos docinhos por pessoa?"
-  },
-  {
-    "data": "2026-10-26T13:48-03:00",
-    "slot": "tarde_1",
-    "formato": "vitrine do produto",
-    "titulo": "A torta que acabou de ficar pronta"
-  },
-  {
     "data": "2026-10-26T16:18-03:00",
     "slot": "tarde_2",
     "formato": "isso ou aquilo",
@@ -1798,5 +1786,17 @@
     "slot": "tarde_2",
     "formato": "isso ou aquilo",
     "titulo": "Quentinho agora ou no dia seguinte?"
+  },
+  {
+    "data": "2026-11-22T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "bastidor humano",
+    "titulo": "Domingo, 20h: a última caixa do dia"
+  },
+  {
+    "data": "2026-11-22T19:11-03:00",
+    "slot": "noite_1",
+    "formato": "unboxing/embalagem",
+    "titulo": "O nome escrito à mão antes da tampa fechar"
   }
 ]
