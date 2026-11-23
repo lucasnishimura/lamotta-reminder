@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-26T19:19-03:00",
-    "slot": "noite_1",
-    "formato": "repost de cliente (print de depoimento)",
-    "titulo": "O recado que chegou depois da festa"
-  },
-  {
-    "data": "2026-10-26T19:19-03:00",
-    "slot": "noite_1",
-    "formato": "unboxing/embalagem",
-    "titulo": "A caixa que sai amanhã cedo"
-  },
-  {
     "data": "2026-10-26T21:52-03:00",
     "slot": "noite_2",
     "formato": "contagem de encomendas",
@@ -1798,5 +1786,17 @@
     "slot": "noite_2",
     "formato": "enquete \"o que quer ver amanhã\"",
     "titulo": "Amanhã quem escolhe é você"
+  },
+  {
+    "data": "2026-11-23T08:11-03:00",
+    "slot": "manha_1",
+    "formato": "o que estou fazendo agora",
+    "titulo": "Abrindo a cozinha de segunda"
+  },
+  {
+    "data": "2026-11-23T08:11-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Café pede doce?"
   }
 ]
