@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-27T10:48-03:00",
-    "slot": "manha_2",
-    "formato": "ASMR/close",
-    "titulo": "O estalo do chocolate belga quebrando"
-  },
-  {
-    "data": "2026-10-27T10:48-03:00",
-    "slot": "manha_2",
-    "formato": "passo a passo rápido",
-    "titulo": "A caixinha de Halloween em 3 passos"
-  },
-  {
     "data": "2026-10-27T13:40-03:00",
     "slot": "tarde_1",
     "formato": "vitrine do produto",
@@ -1798,5 +1786,17 @@
     "slot": "tarde_1",
     "formato": "Enquete de sabor",
     "titulo": "Qual entra na fornada de quarta?"
+  },
+  {
+    "data": "2026-11-23T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "Quem vai ganhar doce seu nesse Natal?"
+  },
+  {
+    "data": "2026-11-23T16:10-03:00",
+    "slot": "tarde_2",
+    "formato": "mito ou verdade",
+    "titulo": "Panetone só dura porque tem conservante?"
   }
 ]
