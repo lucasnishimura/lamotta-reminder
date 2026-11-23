@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-26T16:18-03:00",
-    "slot": "tarde_2",
-    "formato": "isso ou aquilo",
-    "titulo": "Brigadeiro de colher ou enroladinho?"
-  },
-  {
-    "data": "2026-10-26T16:18-03:00",
-    "slot": "tarde_2",
-    "formato": "mito ou verdade",
-    "titulo": "Bolo gelado na hora de servir: mito ou verdade?"
-  },
-  {
     "data": "2026-10-26T19:19-03:00",
     "slot": "noite_1",
     "formato": "repost de cliente (print de depoimento)",
@@ -1798,5 +1786,17 @@
     "slot": "noite_1",
     "formato": "unboxing/embalagem",
     "titulo": "O nome escrito à mão antes da tampa fechar"
+  },
+  {
+    "data": "2026-11-22T21:36-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "Amanhã a lista abre"
+  },
+  {
+    "data": "2026-11-22T21:36-03:00",
+    "slot": "noite_2",
+    "formato": "enquete \"o que quer ver amanhã\"",
+    "titulo": "Amanhã quem escolhe é você"
   }
 ]
