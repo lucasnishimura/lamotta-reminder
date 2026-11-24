@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-28T08:14-03:00",
-    "slot": "manha_1",
-    "formato": "bastidor de produção",
-    "titulo": "A cozinha acordando antes de mim"
-  },
-  {
-    "data": "2026-10-28T08:14-03:00",
-    "slot": "manha_1",
-    "formato": "enquete leve",
-    "titulo": "O que tá saindo do forno agora"
-  },
-  {
     "data": "2026-10-28T10:39-03:00",
     "slot": "manha_2",
     "formato": "ASMR/close",
@@ -1798,5 +1786,17 @@
     "slot": "manha_2",
     "formato": "caixinha de perguntas",
     "titulo": "O doce que não pode faltar na ceia"
+  },
+  {
+    "data": "2026-11-24T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Vitrine do produto",
+    "titulo": "Terça, 13h37: o que ainda tem na bancada pra hoje"
+  },
+  {
+    "data": "2026-11-24T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Quiz",
+    "titulo": "Quiz de terça: você conhece os recheios do nosso chocotone?"
   }
 ]
