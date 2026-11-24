@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-27T21:40-03:00",
-    "slot": "noite_2",
-    "formato": "contagem de encomendas",
-    "titulo": "Última chamada pro Halloween"
-  },
-  {
-    "data": "2026-10-27T21:40-03:00",
-    "slot": "noite_2",
-    "formato": "prévia do amanhã",
-    "titulo": "A massa já tá descansando pra amanhã"
-  },
-  {
     "data": "2026-10-28T08:14-03:00",
     "slot": "manha_1",
     "formato": "bastidor de produção",
@@ -1798,5 +1786,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Time café passado na hora ou café gelado?"
+  },
+  {
+    "data": "2026-11-24T10:38-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "Do forno pra caixa em 3 gestos"
+  },
+  {
+    "data": "2026-11-24T10:38-03:00",
+    "slot": "manha_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "O doce que não pode faltar na ceia"
   }
 ]
