@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-27T16:13-03:00",
-    "slot": "tarde_2",
-    "formato": "isso ou aquilo",
-    "titulo": "Café ou champanhe com o bolo?"
-  },
-  {
-    "data": "2026-10-27T16:13-03:00",
-    "slot": "tarde_2",
-    "formato": "curiosidade",
-    "titulo": "Por que tudo passa pela balança (até o ovo)"
-  },
-  {
     "data": "2026-10-27T19:12-03:00",
     "slot": "noite_1",
     "formato": "repost de cliente",
@@ -1798,5 +1786,17 @@
     "slot": "noite_1",
     "formato": "história da marca",
     "titulo": "A foto antiga que eu nunca mostro"
+  },
+  {
+    "data": "2026-11-23T21:31-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Segunda, 21h: a lista de Natal já tem nome"
+  },
+  {
+    "data": "2026-11-23T21:31-03:00",
+    "slot": "noite_2",
+    "formato": "boa noite",
+    "titulo": "Boa noite com a massa já descansando"
   }
 ]
