@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-28T13:39-03:00",
-    "slot": "tarde_1",
-    "formato": "enquete de sabor",
-    "titulo": "Qual dos dois sai hoje pra você?"
-  },
-  {
-    "data": "2026-10-28T13:39-03:00",
-    "slot": "tarde_1",
-    "formato": "quiz",
-    "titulo": "Sabe com quanto tempo encomendar?"
-  },
-  {
     "data": "2026-10-28T16:13-03:00",
     "slot": "tarde_2",
     "formato": "caixinha de perguntas",
@@ -1798,5 +1786,17 @@
     "slot": "tarde_2",
     "formato": "curiosidade",
     "titulo": "Por que lascas e não gotas"
+  },
+  {
+    "data": "2026-11-24T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Terça, 21h34: os nomes de quarta já estão na lista"
+  },
+  {
+    "data": "2026-11-24T21:34-03:00",
+    "slot": "noite_2",
+    "formato": "enquete \"o que quer ver amanhã\"",
+    "titulo": "Escolhe rapidinho antes de eu apagar a luz"
   }
 ]
