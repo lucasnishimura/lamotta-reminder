@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-28T16:13-03:00",
-    "slot": "tarde_2",
-    "formato": "caixinha de perguntas",
-    "titulo": "A desculpa que você inventa pra encomendar doce"
-  },
-  {
-    "data": "2026-10-28T16:13-03:00",
-    "slot": "tarde_2",
-    "formato": "isso ou aquilo",
-    "titulo": "Doce pra dividir ou doce só seu?"
-  },
-  {
     "data": "2026-10-28T19:13-03:00",
     "slot": "noite_1",
     "formato": "unboxing/embalagem",
@@ -1798,5 +1786,17 @@
     "slot": "noite_2",
     "formato": "enquete \"o que quer ver amanhã\"",
     "titulo": "Escolhe rapidinho antes de eu apagar a luz"
+  },
+  {
+    "data": "2026-11-25T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bom dia",
+    "titulo": "Bom dia de quarta com a xícara na mão"
+  },
+  {
+    "data": "2026-11-25T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Quarta pede café com quê?"
   }
 ]
