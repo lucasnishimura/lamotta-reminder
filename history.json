@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-28T19:13-03:00",
-    "slot": "noite_1",
-    "formato": "unboxing/embalagem",
-    "titulo": "O laço que fecha a noite"
-  },
-  {
-    "data": "2026-10-28T19:13-03:00",
-    "slot": "noite_1",
-    "formato": "história da marca",
-    "titulo": "De onde veio o nome La Motta"
-  },
-  {
     "data": "2026-10-28T21:39-03:00",
     "slot": "noite_2",
     "formato": "boa noite",
@@ -1798,5 +1786,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Quarta pede café com quê?"
+  },
+  {
+    "data": "2026-11-25T10:38-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O som da calda quente encontrando o bolo"
+  },
+  {
+    "data": "2026-11-25T10:38-03:00",
+    "slot": "manha_2",
+    "formato": "ingrediente do dia",
+    "titulo": "As frutinhas que só aparecem nessa época"
   }
 ]
