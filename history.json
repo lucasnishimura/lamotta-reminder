@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-28T21:39-03:00",
-    "slot": "noite_2",
-    "formato": "boa noite",
-    "titulo": "Boa noite com aviso: quinta é o dia de fechar a lista"
-  },
-  {
-    "data": "2026-10-28T21:39-03:00",
-    "slot": "noite_2",
-    "formato": "enquete \"o que quer ver amanhã\"",
-    "titulo": "Amanhã quem escolhe o que eu mostro é você"
-  },
-  {
     "data": "2026-10-29T08:13-03:00",
     "slot": "manha_1",
     "formato": "enquete leve",
@@ -1798,5 +1786,17 @@
     "slot": "manha_2",
     "formato": "ingrediente do dia",
     "titulo": "As frutinhas que só aparecem nessa época"
+  },
+  {
+    "data": "2026-11-25T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Cardápio/encomenda",
+    "titulo": "Quarta, 13h40: o que fecha amanhã"
+  },
+  {
+    "data": "2026-11-25T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Enquete de sabor",
+    "titulo": "Quarta à tarde: qual fatia sai hoje"
   }
 ]
