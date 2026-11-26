@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-29T19:14-03:00",
-    "slot": "noite_1",
-    "formato": "bastidor humano",
-    "titulo": "O último trajeto da quinta"
-  },
-  {
-    "data": "2026-10-29T19:14-03:00",
-    "slot": "noite_1",
-    "formato": "unboxing/embalagem",
-    "titulo": "A caixa aberta em 15 segundos"
-  },
-  {
     "data": "2026-10-29T21:40-03:00",
     "slot": "noite_2",
     "formato": "contagem de encomendas",
@@ -1798,5 +1786,17 @@
     "slot": "manha_1",
     "formato": "bastidor de produção",
     "titulo": "Antes da tampa fechar, o laço"
+  },
+  {
+    "data": "2026-11-26T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ingrediente do dia",
+    "titulo": "A pitada de sal que ninguém vê"
+  },
+  {
+    "data": "2026-11-26T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O baque da massa na bancada"
   }
 ]
