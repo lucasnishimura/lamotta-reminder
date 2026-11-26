@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-29T16:13-03:00",
-    "slot": "tarde_2",
-    "formato": "isso ou aquilo",
-    "titulo": "Sabor ou visual?"
-  },
-  {
-    "data": "2026-10-29T16:13-03:00",
-    "slot": "tarde_2",
-    "formato": "mito ou verdade",
-    "titulo": "Dá pra encomendar na véspera?"
-  },
-  {
     "data": "2026-10-29T19:14-03:00",
     "slot": "noite_1",
     "formato": "bastidor humano",
@@ -1798,5 +1786,17 @@
     "slot": "noite_2",
     "formato": "enquete \"o que quer ver amanhã\"",
     "titulo": "Quinta começa com o quê?"
+  },
+  {
+    "data": "2026-11-26T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "o que estou fazendo agora",
+    "titulo": "8h12: café numa mão, fouet na outra"
+  },
+  {
+    "data": "2026-11-26T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bastidor de produção",
+    "titulo": "Antes da tampa fechar, o laço"
   }
 ]
