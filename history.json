@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-29T21:40-03:00",
-    "slot": "noite_2",
-    "formato": "contagem de encomendas",
-    "titulo": "O caderno de sexta e sábado tá quase fechado"
-  },
-  {
-    "data": "2026-10-29T21:40-03:00",
-    "slot": "noite_2",
-    "formato": "boa noite",
-    "titulo": "A cozinha apaga a luz, o forno já tem hora"
-  },
-  {
     "data": "2026-10-30T08:12-03:00",
     "slot": "manha_1",
     "formato": "bom dia",
@@ -1798,5 +1786,17 @@
     "slot": "manha_2",
     "formato": "ASMR/close",
     "titulo": "O baque da massa na bancada"
+  },
+  {
+    "data": "2026-11-26T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "caixinha de perguntas",
+    "titulo": "A dúvida que sempre chega no direct"
+  },
+  {
+    "data": "2026-11-26T16:11-03:00",
+    "slot": "tarde_2",
+    "formato": "isso ou aquilo",
+    "titulo": "A briga mais esperada da ceia"
   }
 ]
