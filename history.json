@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-31T16:09-03:00",
-    "slot": "tarde_2",
-    "formato": "caixinha de perguntas",
-    "titulo": "Pergunta o que você sempre quis saber da cozinha"
-  },
-  {
-    "data": "2026-10-31T16:09-03:00",
-    "slot": "tarde_2",
-    "formato": "mito ou verdade",
-    "titulo": "Doce sem conservante estraga rápido?"
-  },
-  {
     "data": "2026-10-31T19:10-03:00",
     "slot": "noite_1",
     "formato": "repost de cliente",
@@ -1798,5 +1786,17 @@
     "slot": "tarde_2",
     "formato": "mito ou verdade",
     "titulo": "Fruta cristalizada é obrigatória no panetone?"
+  },
+  {
+    "data": "2026-11-27T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "repost de cliente",
+    "titulo": "Sexta, 19h: o áudio que chegou agora"
+  },
+  {
+    "data": "2026-11-27T19:12-03:00",
+    "slot": "noite_1",
+    "formato": "história da marca",
+    "titulo": "A primeira encomenda de Natal da La Motta"
   }
 ]
