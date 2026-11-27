@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-30T16:11-03:00",
-    "slot": "tarde_2",
-    "formato": "isso ou aquilo",
-    "titulo": "Fatia generosa ou três docinhos pra repetir?"
-  },
-  {
-    "data": "2026-10-30T16:11-03:00",
-    "slot": "tarde_2",
-    "formato": "curiosidade",
-    "titulo": "Por que o docinho mais pesado vai no fundo da caixa"
-  },
-  {
     "data": "2026-10-30T19:11-03:00",
     "slot": "noite_1",
     "formato": "bastidor humano",
@@ -1798,5 +1786,17 @@
     "slot": "noite_2",
     "formato": "boa noite",
     "titulo": "Apagando a luz da quinta"
+  },
+  {
+    "data": "2026-11-27T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "bom dia",
+    "titulo": "Sexta, 8h12: a cozinha acordou antes de mim"
+  },
+  {
+    "data": "2026-11-27T08:12-03:00",
+    "slot": "manha_1",
+    "formato": "enquete leve",
+    "titulo": "Sexta pede doce com café?"
   }
 ]
