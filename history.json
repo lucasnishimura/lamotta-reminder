@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-30T19:11-03:00",
-    "slot": "noite_1",
-    "formato": "bastidor humano",
-    "titulo": "A sexta que termina no carro"
-  },
-  {
-    "data": "2026-10-30T19:11-03:00",
-    "slot": "noite_1",
-    "formato": "repost de cliente",
-    "titulo": "O story que chegou antes do parabéns"
-  },
-  {
     "data": "2026-10-31T08:10-03:00",
     "slot": "manha_1",
     "formato": "o que estou fazendo agora",
@@ -1798,5 +1786,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Sexta pede doce com café?"
+  },
+  {
+    "data": "2026-11-27T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "O estalo do chocolate antes do laço"
+  },
+  {
+    "data": "2026-11-27T10:37-03:00",
+    "slot": "manha_2",
+    "formato": "passo a passo rápido",
+    "titulo": "Do forno pra caixa em 3 gestos"
   }
 ]
