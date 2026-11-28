@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-11-01T10:36-03:00",
-    "slot": "manha_2",
-    "formato": "ingrediente do dia",
-    "titulo": "O limão que abre o domingo"
-  },
-  {
-    "data": "2026-11-01T10:36-03:00",
-    "slot": "manha_2",
-    "formato": "caixinha de perguntas",
-    "titulo": "Adivinha o ingrediente mais caro"
-  },
-  {
     "data": "2026-11-01T13:37-03:00",
     "slot": "tarde_1",
     "formato": "vitrine do produto",
@@ -1798,5 +1786,17 @@
     "slot": "manha_2",
     "formato": "ingrediente do dia",
     "titulo": "O pistache que chegou essa semana"
+  },
+  {
+    "data": "2026-11-28T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Vitrine do produto",
+    "titulo": "Sábado, 13h40: o que sobrou na bancada"
+  },
+  {
+    "data": "2026-11-28T13:37-03:00",
+    "slot": "tarde_1",
+    "formato": "Enquete de sabor",
+    "titulo": "Qual você levaria pra casa hoje?"
   }
 ]
