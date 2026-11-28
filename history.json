@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-10-31T19:10-03:00",
-    "slot": "noite_1",
-    "formato": "repost de cliente",
-    "titulo": "A caixa que ela quase não abriu"
-  },
-  {
-    "data": "2026-10-31T19:10-03:00",
-    "slot": "noite_1",
-    "formato": "bastidor humano",
-    "titulo": "A caixa que fica em casa"
-  },
-  {
     "data": "2026-10-31T21:41-03:00",
     "slot": "noite_2",
     "formato": "prévia do amanhã",
@@ -1798,5 +1786,17 @@
     "slot": "noite_1",
     "formato": "história da marca",
     "titulo": "A primeira encomenda de Natal da La Motta"
+  },
+  {
+    "data": "2026-11-27T21:32-03:00",
+    "slot": "noite_2",
+    "formato": "contagem de encomendas",
+    "titulo": "Sexta, 21h32: 14 caixas prontas pra amanhã"
+  },
+  {
+    "data": "2026-11-27T21:32-03:00",
+    "slot": "noite_2",
+    "formato": "prévia do amanhã",
+    "titulo": "Amanhã o forno acende às 6h"
   }
 ]
