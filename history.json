@@ -1,17 +1,5 @@
 [
   {
-    "data": "2026-11-01T08:10-03:00",
-    "slot": "manha_1",
-    "formato": "bastidor de produção",
-    "titulo": "A primeira fornada de domingo"
-  },
-  {
-    "data": "2026-11-01T08:10-03:00",
-    "slot": "manha_1",
-    "formato": "enquete leve",
-    "titulo": "O café de domingo aí na sua casa"
-  },
-  {
     "data": "2026-11-01T10:36-03:00",
     "slot": "manha_2",
     "formato": "ingrediente do dia",
@@ -1798,5 +1786,17 @@
     "slot": "manha_1",
     "formato": "enquete leve",
     "titulo": "Como começa o seu sábado?"
+  },
+  {
+    "data": "2026-11-28T10:36-03:00",
+    "slot": "manha_2",
+    "formato": "ASMR/close",
+    "titulo": "A colher raspando o fundo da panela"
+  },
+  {
+    "data": "2026-11-28T10:36-03:00",
+    "slot": "manha_2",
+    "formato": "ingrediente do dia",
+    "titulo": "O pistache que chegou essa semana"
   }
 ]
